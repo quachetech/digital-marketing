@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_projects/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_projects/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_projects/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "_projects/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,29 +185,29 @@
   },
   "active": "aa7629533f35106a",
   "lastOpenFiles": [
-    "00-foundations/00-note-digital-marketing-def.md",
-    "00-foundations/about.md",
-    "05-paid-advertising/about.md",
-    "06-analytics-and-data/about.md",
-    "07-personal-branding/about.md",
-    "08-course-creation/about.md",
-    "09-attraction-marketing/about.md",
-    "10-affiliate-marketing/about.md",
-    "11-drop-shipping/about.md",
+    "11-drop-shipping/README.md",
+    "10-affiliate-marketing/README.md",
+    "09-attraction-marketing/README.md",
+    "08-course-creation/README.md",
+    "07-personal-branding/README.md",
+    "06-analytics-and-data/README.md",
+    "05-paid-advertising/README.md",
+    "04-email-marketing/README.md",
+    "03-social-media-marketing/README.md",
+    "02-content-marketing/README.md",
+    "01-seo/README.md",
+    "00-foundations/README.md",
     "README.md",
+    "00-foundations/00-note-digital-marketing-def.md",
     "ROADMAP.md",
     "_templates/note-template.md",
-    "_projects/project-01.md",
+    "_projects/README.md",
     "11-drop-shipping/11-assets",
     "11-drop-shipping",
     "09-attraction-marketing/09-assets",
     "09-attraction-marketing",
-    "04-email-marketing/about.md",
     "10-affiliate-marketing/10-assets",
     "10-affiliate-marketing",
-    "03-social-media-marketing/about.md",
-    "02-content-marketing/about.md",
-    "01-seo/about.md",
     "_templates/project-template.md",
     "_templates/brief-template.md",
     "_templates/outcome-template.md",
