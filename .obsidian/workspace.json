@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7be4ba66693934f1",
+        "id": "168a9b688a7546a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4910767afc7126",
+            "id": "aa7629533f35106a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "09-affiliate-marketing/about.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "about"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09-affiliate-marketing/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for about"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "09-affiliate-marketing/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from about"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "09-affiliate-marketing/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of about"
             }
           }
         ]
@@ -178,33 +185,41 @@
   },
   "active": "85277530a4401066",
   "lastOpenFiles": [
-    "GLOSSARY.md",
-    "_templates/about-template.md",
-    "ROADMAP.md",
-    "01-seo/about.md",
-    "_templates/project-template.md",
-    "_templates/assignment-template.md",
-    "_templates/note-template.md",
-    "_templates/process-template.md",
-    "_templates/outcome-template.md",
-    "_projects/project-01/outcome.md",
-    "_templates/brief-template.md",
-    "_projects/project-01/brief.md",
-    "_projects/project-01/process.md",
+    "11-drop-shipping/about.md",
+    "11-drop-shipping/11-assets",
+    "11-drop-shipping",
+    "10-attraction-marketing/about.md",
+    "10-attraction-marketing/10-assets",
+    "10-attraction-marketing",
+    "09-affiliate-marketing/about.md",
+    "04-email-marketing/about.md",
+    "09-affiliate-marketing/09-assets",
+    "09-affiliate-marketing",
+    "03-social-media-marketing/about.md",
     "02-content-marketing/about.md",
-    "_projects/about.md",
+    "01-seo/about.md",
     "00-foundations/about.md",
+    "_projects/project-01.md",
+    "_templates/project-template.md",
+    "_templates/brief-template.md",
+    "_templates/outcome-template.md",
+    "_templates/process-template.md",
+    "_templates/assignment-template.md",
+    "_templates/about-template.md",
+    "_templates/note-template.md",
+    "GLOSSARY.md",
+    "ROADMAP.md",
     "README.md",
-    "Welcome.md",
+    "00-foundations/getting-started.md",
+    "05-paid-advertising/about.md",
+    "06-analytics-and-data/about.md",
+    "07-personal-branding/about.md",
+    "08-course-creation/about.md",
+    "_projects/project-01/outcome.md",
+    "_projects/project-01/brief.md",
     "_swipe-files/assets",
     "_projects/project-01/assets",
     "_projects/project-01",
-    "08-course-creation/08-assets",
-    "07-personal-branding/07-assets",
-    "06-analytics-and-data/06-assets",
-    "05-paid-advertising/05-assets",
-    "04-email-marketing/04-assets",
-    "03-social-media-marketing/03-assets",
-    "02-content-marketing/02-assets"
+    "08-course-creation/08-assets"
   ]
 }
