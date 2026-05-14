@@ -35,14 +35,14 @@ This repo is one node in a larger body of work I'm developing.
 
 ## Repo Structure
 
-| Folder | Purpose |
-|---|---|
-| `00_foundations/` | Core concepts and mental models |
-| `01_seo/` → `08_course-creation/` | Topic modules with notes & assignments |
-| `_projects/` | Real-world hands-on practice projects |
-| `_resources/` | Tools, links, recommended reads |
-| `_templates/` | Reusable templates for notes, projects, etc. |
-| `_swipe-file/` | Inspiration — ads, copy, campaigns worth studying |
+| Folder                         | Purpose                                           |
+| ------------------------------ | ------------------------------------------------- |
+| `00_foundations/`              | Core concepts and mental models                   |
+| `01_seo/` → `11_dor-shipping/` | Topic modules with notes & assignments            |
+| `_projects/`                   | Real-world hands-on practice projects             |
+| `_resources/`                  | Tools, links, recommended reads                   |
+| `_templates/`                  | Reusable templates for notes, projects, etc.      |
+| `_swipe-file/`                 | Inspiration — ads, copy, campaigns worth studying |
 
 See [ROADMAP.md](./ROADMAP.md) for the full learning plan and progress tracker.
 
@@ -61,6 +61,9 @@ See [ROADMAP.md](./ROADMAP.md) for the full learning plan and progress tracker.
 | 06 · Analytics & Data | ⬜ Not Started |
 | 07 · Personal Branding | ⬜ Not Started |
 | 08 · Course Creation | ⬜ Not Started |
+| 09 · Attraction Marketing | ⬜ Not Started |
+| 10 · Affiliate Marketing | ⬜ Not Started |
+| 11 · Dropshipping | ⬜ Not Started |
 
 ---
 

@@ -39,19 +39,19 @@ By the end of this module, I should be able to:
 
 ## Topics Covered
 
-| # | Topic | Notes | Status |
-|---|---|---|---|
-| 1 | What is Digital Marketing? | | ⬜ |
-| 2 | Traditional vs Digital Marketing | | ⬜ |
-| 3 | The Digital Marketing Landscape (channel overview) | | ⬜ |
-| 4 | The Marketing Funnel (TOFU / MOFU / BOFU) | | ⬜ |
-| 5 | Understanding Your Target Audience | | ⬜ |
-| 6 | The Customer Journey & Touchpoints | | ⬜ |
-| 7 | Organic vs Paid Traffic | | ⬜ |
-| 8 | Conversions & Goals | | ⬜ |
-| 9 | KPIs & Metrics Basics | | ⬜ |
-| 10 | Brand in the Digital Age | | ⬜ |
-| 11 | Integrated Digital Marketing Strategy | | ⬜ |
+| #   | Topic                                              | Notes | Status |
+| --- | -------------------------------------------------- | ----- | ------ |
+| 1   | What is Digital Marketing?                         |       | ⬜      |
+| 2   | Traditional vs Digital Marketing                   |       | ⬜      |
+| 3   | The Digital Marketing Landscape (channel overview) |       | ⬜      |
+| 4   | The Marketing Funnel (TOFU / MOFU / BOFU)          |       | ⬜      |
+| 5   | Understanding Your Target Audience                 |       | ⬜      |
+| 6   | The Customer Journey & Touchpoints                 |       | ⬜      |
+| 7   | Organic vs Paid Traffic                            |       | ⬜      |
+| 8   | Conversions & Goals                                |       | ⬜      |
+| 9   | KPIs & Metrics Basics                              |       | ⬜      |
+| 10  | Brand in the Digital Age                           |       | ⬜      |
+| 11  | Integrated Digital Marketing Strategy              |       | ⬜      |
 
 ---
 
@@ -94,7 +94,17 @@ No specialised tools needed at this stage. Core tools introduced here:
 
 ## Resources
 
-- *(Add links to videos, articles, or lessons from your program as you go)*
+- [Digital Marketing in 5 minutes](https://www.youtube.com/watch?v=_5v3w9iv_Hk)
+- [Digital Marketer: The Ultimate Guide to Digital Marketing](https://www.digitalmarketer.com/digital-marketing/)
+- [Essential Digital Marketing Terms](https://www.youtube.com/watch?v=nKyFzx88w38&t=16s)
+- [Fundamentals of Digital Marketing](https://www.youtube.com/playlist?list=PLLSovFY-eK2_1isRMtrNS_me4zDrs2CuS)
+- [Digital Marketing: A Beginner's Guide](https://www.youtube.com/watch?v=t-pCoBQP9BI)
+- [Digital Marketing: an Overview](https://martech.zone/what-is-digital-marketing/)
+- [Types of Digital Marketing](https://www.infidigit.com/blog/types-of-digital-marketing/)
+- [Traditional vs Digital Marketing](https://imarticus.org/blog/traditional-vs-digital-marketing-essential-differences-explained/)
+- [Direct vs Digital Marketing](https://www.bakergoodchild.co.uk/direct-marketing-vs-digital-marketing/)
+- [Digital Marketing: What it is](https://trainings.internshala.com/blog/what-is-digital-marketing/)
+- 
 
 ---
 

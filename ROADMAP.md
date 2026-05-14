@@ -36,12 +36,22 @@ To become independently skilled in digital marketing — capable of promoting my
 *Goal: Apply what I've learned to market myself.*
 
 - [ ] 07 · Personal Branding
+- [ ] 09 · Attraction Marketing
 - [ ] Build and launch a personal brand presence (platform TBD)
 - [ ] Create at least one end-to-end campaign for myself
 
 ---
 
-## Phase 3 — Course Creation
+## Phase 3 — Monetisation Models
+*Goal: Understand and experiment with different ways to earn online.*
+
+- [ ] 10 · Affiliate Marketing
+- [ ] 11 · Dropshipping
+- [ ] Test at least one monetisation model hands-on
+
+---
+
+## Phase 4 — Course Creation
 *Goal: Package knowledge into a sellable, teachable product.*
 
 - [ ] 08 · Course Creation
