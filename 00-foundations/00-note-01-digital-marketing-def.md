@@ -5,7 +5,6 @@
 **Date:** 2026-05-14
 
 ---
-
 ## Summary
 
 Digital marketing is not advertising — advertising is merely one component of it. It is the full ecosystem of how a brand shows up and communicates with its audience across all online touchpoints: before, during, and after the sale. It encompasses who you are, what you do, who you serve, how you speak, where you show up, and how you move people through a journey from stranger to customer. Done well, it is both strategic and human.
@@ -43,10 +42,10 @@ It is simply **how you show up and how you communicate with your audience across
 
 These two terms are not interchangeable and confusing them leads to wasted effort.
 
-|              | Definition                                   | Examples                                                                                     |
-| ------------ | -------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Strategy** | The big picture plan                         | Your offer, your audience, your positioning, your communication style, your platform choices |
-| **Tactics**  | Specific actions that implement the strategy | Posting on Instagram, running a Google Ad, sending an email sequence                         |
+| | Definition | Examples |
+|---|---|---|
+| **Strategy** | The big picture plan | Your offer, your audience, your positioning, your communication style, your platform choices |
+| **Tactics** | Specific actions that implement the strategy | Posting on Instagram, running a Google Ad, sending an email sequence |
 
 > **Rule:** Always define strategy first. Tactics without strategy is just busy work.
 
@@ -78,14 +77,14 @@ These two terms are not interchangeable and confusing them leads to wasted effor
 
 Traditional marketing was almost entirely push. Modern marketing integrates both — but the most effective personal brands and creators lean heavily into pull.
 
-|                | Push Marketing                                                     | Pull Marketing                                        |
-| -------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
-| **Approach**   | *Buy my stuff*                                                     | *Let me help you solve this problem*                  |
-| **Direction**  | One-way — message pushed out to people whether they want it or not | Conversational — genuine engagement with the audience |
-| **Philosophy** | Product-first                                                      | People-first                                          |
-| **Method**     | Interruption                                                       | Attraction                                            |
-| **Value**      | Held behind paywalls                                               | Given freely and generously                           |
-| **Goal**       | Immediate sale                                                     | Trust, relationship, and eventual conversion          |
+| | Push Marketing | Pull Marketing |
+|---|---|---|
+| **Approach** | *Buy my stuff* | *Let me help you solve this problem* |
+| **Direction** | One-way — message pushed out to people whether they want it or not | Conversational — genuine engagement with the audience |
+| **Philosophy** | Product-first | People-first |
+| **Method** | Interruption | Attraction |
+| **Value** | Held behind paywalls | Given freely and generously |
+| **Goal** | Immediate sale | Trust, relationship, and eventual conversion |
 
 Pull marketing is about being a real human — having conversations, genuinely wanting to help, and creating content so valuable that people seek *you* out.
 
@@ -95,12 +94,12 @@ Pull marketing is about being a real human — having conversations, genuinely w
 
 This is one of the most important distinctions in marketing copywriting and product communication.
 
-|                | Features                                                | Benefits                                                       |
-| -------------- | ------------------------------------------------------- | -------------------------------------------------------------- |
+| | Features | Benefits |
+|---|---|---|
 | **Definition** | What your product has or what is included in your offer | Why someone would buy — the outcome, result, or transformation |
-| **Answers**    | *What does it do?*                                      | *What's in it for me?*                                         |
-| **Focus**      | The product                                             | The customer                                                   |
-| **Example**    | *"Includes 12 video modules"*                           | *"Go from zero to your first sale in 30 days"*                 |
+| **Answers** | *What does it do?* | *What's in it for me?* |
+| **Focus** | The product | The customer |
+| **Example** | *"Includes 12 video modules"* | *"Go from zero to your first sale in 30 days"* |
 
 > Customers buy benefits. Features justify the decision. **Good marketing includes both.**
 
@@ -110,14 +109,31 @@ This is one of the most important distinctions in marketing copywriting and prod
 
 Two fundamental strategies for getting people to your content, offer, or platform.
 
-|                     | Organic                                  | Paid                              |
-| ------------------- | ---------------------------------------- | --------------------------------- |
-| **Resource traded** | Time and effort                          | Money and budget                  |
-| **Speed**           | Slow build, compounds over time          | Fast — results as soon as ads run |
-| **Sustainability**  | High — content can work for years        | Stops when budget stops           |
-| **Examples**        | SEO, social content, email list building | Google Ads, Meta Ads, TikTok Ads  |
+| | Organic | Paid |
+|---|---|---|
+| **Resource traded** | Time and effort | Money and budget |
+| **Speed** | Slow build, compounds over time | Fast — results as soon as ads run |
+| **Sustainability** | High — content can work for years | Stops when budget stops |
+| **Examples** | SEO, social content, email list building | Google Ads, Meta Ads, TikTok Ads |
 
 > Neither is superior — they serve different stages and goals. Most sustainable strategies eventually use both.
+
+---
+
+### Why *Digital* Marketing Specifically
+
+Digital marketing allows businesses and individuals to reach a far wider audience than physical or geographical limits would otherwise allow — and without proportionally large costs. A small operation, a solo creator, or someone working with a modest budget can access the same global audience as a large corporation, using the same channels.
+
+This is what separates digital marketing from marketing in general:
+
+| | Traditional / Physical Marketing | Digital Marketing |
+|---|---|---|
+| **Reach** | Limited by geography and physical presence | Global — no geographical ceiling |
+| **Cost** | Often high — print, events, billboards, broadcast | Scalable — can start with little to no budget |
+| **Access** | Favours large budgets and established brands | Levels the playing field for small operators |
+| **Speed** | Slow to deploy and adjust | Fast to launch, test, and iterate |
+
+> Digital marketing is not just marketing that happens online. It is marketing that democratises reach — making it possible to build an audience, a brand, and a business from anywhere, at any scale.
 
 ---
 
@@ -163,17 +179,17 @@ Two fundamental strategies for getting people to your content, offer, or platfor
 
 ## Glossary Additions
 
-| Term              | Quick Definition                                                                          |
-| ----------------- | ----------------------------------------------------------------------------------------- |
-| Digital Marketing | The full system of how a brand communicates and shows up across all online touchpoints    |
-| Strategy          | The big picture plan — audience, offer, positioning, channels                             |
-| Tactics           | Specific actions taken to execute the strategy                                            |
-| Direct Response   | A campaign designed to drive immediate, measurable action                                 |
-| Brand Awareness   | A campaign designed to build recognition and trust over time                              |
+| Term | Quick Definition |
+|---|---|
+| Digital Marketing | The full system of how a brand communicates and shows up across all online touchpoints |
+| Strategy | The big picture plan — audience, offer, positioning, channels |
+| Tactics | Specific actions taken to execute the strategy |
+| Direct Response | A campaign designed to drive immediate, measurable action |
+| Brand Awareness | A campaign designed to build recognition and trust over time |
 | Micro Conversions | Small measurable actions (engagement, clicks, watches) that signal progress toward a sale |
-| Push Marketing    | Outbound marketing that sends messages to people whether they asked or not                |
-| Pull Marketing    | Value-first marketing that attracts people by genuinely helping them                      |
-| Features          | What a product has or does                                                                |
-| Benefits          | The outcome or transformation a customer gets from a product                              |
-| Organic Traffic   | Audience driven by time and content effort, not paid ads                                  |
-| Paid Traffic      | Audience driven by ad spend                                                               |
+| Push Marketing | Outbound marketing that sends messages to people whether they asked or not |
+| Pull Marketing | Value-first marketing that attracts people by genuinely helping them |
+| Features | What a product has or does |
+| Benefits | The outcome or transformation a customer gets from a product |
+| Organic Traffic | Audience driven by time and content effort, not paid ads |
+| Paid Traffic | Audience driven by ad spend |
