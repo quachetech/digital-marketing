@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e903a019a51bb07",
+        "id": "6712bafd615ff2c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9785fd4a90c1e0ef",
+            "id": "d4178c60c24a33f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00-foundations/00-note-06-personal-deductions-visibility-awareness-KTL-factor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "00-note-06-personal-deductions-visibility-awareness-KTL-factor"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "7e1b896b86908dd1",
@@ -185,6 +185,10 @@
   },
   "active": "85277530a4401066",
   "lastOpenFiles": [
+    "00-foundations/00-note-06-personal-deductions-visibility-awareness-KTL-factor.md",
+    "00-foundations/00-note-05-digital-marketing-explained.md",
+    "00-foundations/00-assets/ultimate-guide-to-digital-marketing.pdf",
+    "README.md",
     "00-foundations/00-note-04-personal-deductions-understanding-your-positioning.md",
     "00-foundations/00-note-03-personal-deductions-process-vs-experience.md",
     "00-foundations/00-note-02-personal-deductions-what-is-marketing.md",
@@ -202,7 +206,6 @@
     "02-content-marketing/README.md",
     "01-seo/README.md",
     "00-foundations/README.md",
-    "README.md",
     "ROADMAP.md",
     "_templates/note-template.md",
     "11-drop-shipping/11-assets",
@@ -215,11 +218,8 @@
     "_templates/brief-template.md",
     "_templates/outcome-template.md",
     "_templates/process-template.md",
-    "_templates/assignment-template.md",
-    "_templates/about-template.md",
     "_swipe-files/assets",
     "_projects/project-01/assets",
-    "_projects/project-01",
-    "08-course-creation/08-assets"
+    "_projects/project-01"
   ]
 }
