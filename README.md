@@ -44,7 +44,7 @@ This repo is one node in a larger body of work I'm developing.
 | `_templates/`                  | Reusable templates for notes, projects, etc.      |
 | `_swipe-file/`                 | Inspiration — ads, copy, campaigns worth studying |
 
-See [ROADMAP.md](./ROADMAP.md) for the full learning plan and progress tracker.
+See [ROADMAP.md](ROADMAP.md) for the full learning plan and progress tracker.
 
 ---
 
