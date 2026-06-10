@@ -25,7 +25,7 @@ The account was built around a *curious learner* identity — documenting a real
 ## What Was Built
 
 - A TikTok account grown from 0 to 14 followers organically
-- 15 published videos across 15 consecutive days
+- 18 published videos across 15 consecutive days
 - A creator identity and recognisable content voice
 - Content including: an origin story video, a "two masters" framework video, the Rose Garden Principle, a passive income series, and an AI tools perspective video
 - The lived experience that produced the **Three-Phase Beginner Model** — a pedagogical framework for beginner content creators

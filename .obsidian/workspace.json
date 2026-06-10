@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio/projects/dm-01/project-01.md",
+                "file": "_projects/project-0.1/brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-01"
+              "title": "brief"
+            }
+          },
+          {
+            "id": "7d99e8ede9bd9f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/project-00/00-outcomes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-outcomes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdb792c1f81062c3",
+  "active": "7d99e8ede9bd9f93",
   "lastOpenFiles": [
-    "portfolio/projects/dm-01/project-01.md",
+    "_projects/project-00/00-brief.md",
+    "_projects/project-0.1/brief.md",
     "portfolio/projects/dm-00/project-00.md",
+    "_projects/project-0.1/process.md",
+    "_projects/project-0.1/outcome.md",
+    "_projects/project-0.1/assets",
+    "_projects/project-0.1",
+    "portfolio/projects/dm-01/project-01.md",
     "portfolio/projects/dm-01",
     "portfolio/projects",
     "portfolio/projects/dm-00",
@@ -195,7 +216,6 @@
     "portfolio",
     "_projects/project-01/01-process.md",
     "_projects/project-01/01-outcome.md",
-    "_projects/project-00/00-brief.md",
     "_projects/project-xx/process.md",
     "_projects/project-xx/outcome.md",
     "_projects/project-xx/brief.md",
@@ -209,17 +229,12 @@
     "00-foundations/00-notes-08-personal-deductions-the-rose-garden-principle.md",
     "_projects/project-00/process.md",
     "_projects/project-00/assets",
-    "_projects/project-00",
     "00-foundations/00-note-07-personal-deductions-as-an-imperative-skill.md",
     "00-foundations/00-note-06-personal-deductions-visibility-awareness-KTL-factor.md",
     "00-foundations/00-note-05-digital-marketing-explained.md",
-    "00-foundations/00-assets/ultimate-guide-to-digital-marketing.pdf",
     "README.md",
     "00-foundations/00-note-04-personal-deductions-understanding-your-positioning.md",
     "00-foundations/00-note-03-personal-deductions-process-vs-experience.md",
-    "00-foundations/00-note-02-personal-deductions-what-is-marketing.md",
-    "00-foundations/00-note-01-digital-marketing-def.md",
-    "_projects/README.md",
-    "11-drop-shipping/README.md"
+    "00-foundations/00-note-02-personal-deductions-what-is-marketing.md"
   ]
 }
