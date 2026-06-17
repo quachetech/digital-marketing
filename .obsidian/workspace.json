@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "00-outcomes"
             }
+          },
+          {
+            "id": "fdc3a5d7c35b855e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/project-0.1/ignited.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ignited"
+            }
+          },
+          {
+            "id": "effc0f4041ce9c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/project-0.1/assets/ignition-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ignition-2"
+            }
+          },
+          {
+            "id": "a2ae958e447f7a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-foundations/00-note-09-live-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-note-09-live-notes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,8 +240,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d99e8ede9bd9f93",
+  "active": "effc0f4041ce9c3f",
   "lastOpenFiles": [
+    "_projects/project-0.1/ignited.md",
+    "_projects/project-0.1/assets/ignition-2.md",
+    "00-foundations/00-note-09-live-notes.md",
+    "_projects/project-00/00-outcomes.md",
     "_projects/project-00/00-brief.md",
     "_projects/project-0.1/brief.md",
     "portfolio/projects/dm-00/project-00.md",
@@ -222,7 +268,6 @@
     "_projects/project-xx/assets",
     "_projects/project-xx",
     "00-foundations/00-foundations-philosophy.md",
-    "_projects/project-00/00-outcomes.md",
     "_resources/dph-program-review-00.md",
     "_curriculum/project-00.md",
     "_curriculum",
@@ -232,9 +277,6 @@
     "00-foundations/00-note-07-personal-deductions-as-an-imperative-skill.md",
     "00-foundations/00-note-06-personal-deductions-visibility-awareness-KTL-factor.md",
     "00-foundations/00-note-05-digital-marketing-explained.md",
-    "README.md",
-    "00-foundations/00-note-04-personal-deductions-understanding-your-positioning.md",
-    "00-foundations/00-note-03-personal-deductions-process-vs-experience.md",
-    "00-foundations/00-note-02-personal-deductions-what-is-marketing.md"
+    "README.md"
   ]
 }
