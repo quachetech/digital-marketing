@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/project-0.1/assets/transformation-audit.md",
+                "file": "_projects/project-0.1/ignited-documentation-trail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transformation-audit"
+              "title": "ignited-documentation-trail"
             }
           },
           {
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "7e1b896b86908dd1",
@@ -326,8 +327,8 @@
   },
   "active": "29f6ff2583803b1f",
   "lastOpenFiles": [
-    "_projects/project-0.1/assets/gps-srt-audit.md",
     "_projects/project-0.1/assets/transformation-audit.md",
+    "_projects/project-0.1/assets/gps-srt-audit.md",
     "_projects/project-0.1/assets/lessons-captions.md",
     "_projects/project-0.1/assets/mindset-captions.md",
     "ignition-content-strategy.md",
