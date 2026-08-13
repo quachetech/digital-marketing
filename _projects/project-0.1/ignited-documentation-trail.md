@@ -120,6 +120,16 @@ Per-post granularity, separate from the weekly rollups below — this is what le
 |19|30 July 2026 (11 PM)|[hook not logged]|—|—|~6 days (5 Aug)|112|3|0|0|0|—|0|—|8m 11s|Malawi 57% + Zambia 11.9% — see dilution correction below.|
 |20|31 July 2026 (11 PM)|[hook not logged]|—|—|~5 days (5 Aug)|102|0|0|0|0|—|0|—|4m 48s|Zero engagement of any kind. First post with a male-majority gender read (68%) since early in the cycle.|
 |21|1 August 2026 (11 PM)|[hook not logged]|—|—|~4 days (5 Aug)|147|0|0|0|0|—|1|—|9m 28s|Zero likes/comments/shares/saves, but still gained a follower — a reminder that Follow doesn't require any of the other engagement actions first. Vietnam at 90.3%, matching Post 12's earlier extreme.|
+|22|2 August 2026 (11 PM)|[hook not logged]|—|—|~10 days (12 Aug)|84|0|0|0|0|—|0|—|1m 59s|Below the ~100-view demographic-data threshold. Total viewers 88, +78 in the most recent day — a big late jump.|
+|23|3 August 2026 (11 PM)|[hook not logged]|—|—|~9 days (12 Aug)|102|0|0|0|0|—|0|—|2m 37s|Mauritius 46.3% + Mozambique 27.4% — another Southern-Africa-concentrated post. Zero engagement.|
+|24|4 August 2026 (11 PM)|[hook not logged]|—|—|~8 days (12 Aug)|141|1|0|0|0|—|0|—|23m 44s|Vietnam 79.5%, another extreme reading. Highest total play time relative to views in this batch.|
+|25|5 August 2026 (11 PM)|[hook not logged]|—|—|~7 days (12 Aug)|191|0|0|0|1|—|0|—|8m 25s|Highest raw view count in this batch (191). Malawi 59.4% + Zambia 16.6% — Southern-Africa cluster again.|
+|26|6 August 2026 (11 PM)|[hook not logged]|—|—|~6 days (12 Aug)|94|0|0|0|0|—|0|—|10m 16s|Below the ~100-view demographic-data threshold. Zero engagement.|
+|27|7 August 2026 (11 PM)|[hook not logged]|—|—|~5 days (12 Aug)|108|0|0|0|0|—|0|—|9m 18s|Malawi 36.4% + Mozambique 25.9% + Nepal 17% — three-way split, no single dominant country. Second post with a nonzero "Other" gender reading (2%).|
+|28|8 August 2026 (11:30 PM)|"How posting consistently on camera builds confidence over time"|—|—|~4 days (12 Aug)|144|2|0|0|0|—|0|—|5m 08s|**Now fully logged (was partial).** Total viewers reported as only 32 despite 144 views — a real gap worth noting, possibly a narrower time-window reading rather than a full reconciliation; flagged rather than explained away. Mozambique 28.5% + Brazil 22.9% + Malawi 11.8% + Angola 9% — very diffuse, no country over 30%.|
+|29|9 August 2026 (11:16 PM)|"Why profit isn't only measured in money"|—|—|~3 days (12 Aug)|144|0|0|0|0|—|0|—|5m 48s|**Now fully logged (was partial).** Total viewers now confirmed: 132 (+122 in the most recent day). Vietnam 59.1%, "Others" at 20% — moderately diffuse despite Vietnam's lead.|
+|30|10 August 2026 (11:19 PM)|"The know trust like factor and why it predicts purchasing behavior"|Lessons|Save|~2 days (12 Aug)|100|1|0|0|0|—|0|—|3m 22s|**Final post of Phase 1 — all 30 carousels now posted, now fully logged.** Avg. watch time 1.74s, 1.7% watched in full. Total viewers only 7 so far — still very early in this post's own lifecycle, numbers will likely move further. Pakistan at 89.5% is a brand-new extreme — first time Pakistan has been dominant on any post (previously always a minor 1–8% player). Worth treating as preliminary given only 7 viewers behind it.|
+|||||||||||||||||
 |||||||||||||||||
 
 > **Correction to the Day 24 dilution-theory upgrade, tested against these nine posts' individual data.** Posts 13, 17, and 19 — the three posts with the _highest_ English-floor estimates in this batch (78.5%, 57.9%, 74.8%, all Malawi-dominant) — show the _lowest_ bounded engagement rates (2.4%, 1.2%, 3.6%). That's close to the opposite of what the dilution theory predicts. Post 15, with a much lower floor (29.4%), bounded out at 11.2%, closer to what the weekly aggregates suggested. The likely issue: "English-official country" is a coarser proxy than it was treated as — Malawi's official-English status doesn't mean the population reads fast, dense, idiomatic marketing carousels comfortably; many Malawians primarily speak Chichewa day to day. Country-language-status was doing more work in the previous entry's reasoning than it can actually bear. **The Day 24 "substantially upgraded" status is walked back to "genuinely mixed, country-level language proxy is too coarse to trust cleanly" — full detail in the Open Hypotheses log.**
@@ -190,6 +200,16 @@ This is the direct read on the geographic migration goal from your own research 
 |Post 19 (Day 19)|~6 days|Malawi — 57%|Mozambique — 21.2%|Zambia — 11.9%|21.2% (#2)|South Africa 4.2% · USA 1.7% · Germany <1% · UK <1% · Namibia <1% · Portugal <1% · Türkiye <1%|Malawi + Mozambique + Zambia + South Africa = 94.3% — the most Southern-Africa-concentrated post logged so far.|
 |Post 20 (Day 20)|~5 days|Mozambique — 19.8%|Brazil — 10.4%|Philippines — 6.6%|19.8% (#1)|Mauritius 5.7% · Türkiye 4.7% · Angola 3.8% · UK 3.8% · Malawi 3.8% · Indonesia 2.8% · Singapore 2.8% · Others 35.8%|Most diffuse "Others" reading of any post to date (35.8%) — no strong single-country concentration at all. Mozambique #1 but only at 19.8%, far below its concentrated readings on other posts.|
 |Post 21 (Day 21)|~4 days|Vietnam — 90.3%|Mozambique — 2.7%|Australia — 1.4%|2.7% (#2)|Türkiye 1.4% · Austria <1% · Brazil <1% · Nepal <1% · Pakistan <1% · Taiwan <1% · USA <1%|Ties Post 12 as the most extreme Vietnam concentration logged (90.3% vs. 90.5%).|
+|**Week 4 Aggregate** (3–9 Aug, 814 total viewers)|7 days|Vietnam — 39.9%|Mozambique — 17.1%|Pakistan — 5.8%|17.1% (#2)|Mauritius 5.3% · Brazil 4.8% · USA 4.2% · Nepal 2.6% · Portugal 2.3% · South Africa 2.3% · Zambia 2.3% · Others 13.4%|**Possible early stabilization signal, not yet confirmed.** Four weeks of Vietnam: 40.8% → 57% → 32.3% → 39.9% — Week 4 landed close to Week 1 rather than continuing to swing wildly. Mozambique: 14% → 11.5% → 17% → 17.1% — the last two weeks are nearly identical, the first time two consecutive weekly aggregates have landed this close together. Worth treating as a genuine candidate for the account settling rather than pure oscillation, but two close data points isn't confirmation — Week 5 is the real test.|
+|Post 22 (Day 22)|~10 days|[below 100-view threshold]|||||Data not yet available.|
+|Post 23 (Day 23)|~9 days|Mauritius — 46.3%|Mozambique — 27.4%|USA — 4.7%|27.4% (#2)|Portugal 2.8% · Brazil 1.9% · Haiti 1.9% · Nicaragua 1.9% · South Africa 1.9% · UAE <1% · Germany <1% · Others 9.4%|Mauritius + Mozambique = 73.7%, another Southern-Africa-dominant post.|
+|Post 24 (Day 24)|~8 days|Vietnam — 79.5%|Mozambique — 7.4%|Brazil — 1.4%|7.4% (#2)|Canada 1.4% · France 1.4% · Singapore 1.4% · Angola <1% · Australia <1% · Germany <1% · Portugal <1% · Others 4.7%|Another Vietnam extreme, consistent with the recurring pattern.|
+|Post 25 (Day 25)|~7 days|Malawi — 59.4%|Zambia — 16.6%|South Africa — 7.5%|6% (#4, Mozambique)|Brazil 5% · Pakistan 1% · Congo <1% · Jamaica <1% · Rwanda <1% · Taiwan <1% · Others 2.5%|Malawi + Zambia + South Africa + Mozambique = 89.5% — heavily Southern-Africa-concentrated, "Others" down to just 2.5%.|
+|Post 26 (Day 26)|~6 days|[below 100-view threshold]|||||Data not yet available.|
+|Post 27 (Day 27)|~5 days|Malawi — 36.4%|Mozambique — 25.9%|Nepal — 17%|25.9% (#2)|Thailand 5.4% · Angola 2.7% · Brazil 1.8% · Portugal 1.8% · South Africa 1.8% · Serbia <1% · São Tomé <1% · Others 5.4%|Three-way split rather than one dominant country — a genuinely different shape from most posts in this batch.|
+|Post 28 (Day 28)|~4 days|Mozambique — 28.5%|Brazil — 22.9%|Malawi — 11.8%|28.5% (#1)|Angola 9% · Portugal 6.9% · USA 2.1% · South Africa 2.1% · Haiti 1.4% · Kazakhstan 1.4% · Zimbabwe 1.4% · Others 12.5%|Most diffuse post in this batch — no single country over 30%.|
+|Post 29 (Day 29)|~3 days|Vietnam — 59.1%|Japan — 4.1%|Philippines — 2.8%|2.1% (#8, Mozambique)|Singapore 2.8% · Australia 2.1% · Canada 2.1% · UK 2.1% · France 1.4% · Norway 1.4% · Others 20%|Vietnam-led but notably more diffuse than Posts 8/12/14/21/24's 80–90%+ extremes — "Others" at 20% is the highest "Others" share on any Vietnam-led post so far.|
+|Post 30 (Day 30)|~2 days|Pakistan — 89.5%|Mozambique — 3.4%|UK — 1.7%|3.4% (#2)|Denmark <1% · Malaysia <1% · Philippines <1% · Saudi Arabia <1% · USA <1% · South Africa <1%|Brand-new extreme — Pakistan has never been dominant on any prior post (usually a minor 1–8% player). Only 7 total viewers behind this reading, so treat as preliminary — the account's very last Phase 1 post ending on a country that's never shown up this way before is a fitting, slightly ironic close to 30 days of geographic volatility.|
 |||||||||
 
 _What "Others" means: TikTok Studio only breaks out individual figures for a limited number of top countries (roughly top 5–10) — everyone outside that list is aggregated into "Others." No official TikTok source confirms the exact cutoff, so treat that mechanism as understood-but-unverified, same standard as everything else in this log. A 42.1% "Others" on Post 2 most likely reflects a wide spread across many small-count countries rather than one large hidden one — a single country contributing that much would typically be broken out on its own._
@@ -226,6 +246,16 @@ _What "Others" means: TikTok Studio only breaks out individual figures for a lim
 |Post 19 (Day 19)|~6 days|40% (M)|60% (F)|51%|37%|8%|2%|2%||
 |Post 20 (Day 20)|~5 days|68% (M)|32% (F)|22%|38%|23%|12%|5%|First male-majority post since early in the cycle, and the oldest age skew yet (40% in 35+).|
 |Post 21 (Day 21)|~4 days|58% (M)|42% (F)|32%|52%|11%|4%|1%|Male-majority again, alongside the most extreme Vietnam reading in this batch — gender didn't track with the Vietnam-heavy pattern the way it sometimes has before.|
+|**Week 4 Aggregate** (3–9 Aug)|7 days|41% (M)|59% (F)|36.8%|47.2%|11.1%|2.9%|2%|Female share: 52% → 73% → 60% → 59% — like geography, the last two weeks are close together after two wilder swings. Age concentration in 18–34 remains the most consistent pattern of any metric (84% this week).|
+|Post 22 (Day 22)|~10 days|[below 100-view threshold]||||||||
+|Post 23 (Day 23)|~9 days|42% (M)|58% (F)|36%|48%|10%|4%|2%||
+|Post 24 (Day 24)|~8 days|24% (M)|76% (F)|40%|52%|6%|1%|1%||
+|Post 25 (Day 25)|~7 days|36% (M)|64% (F)|50%|38%|8%|3%|1%||
+|Post 26 (Day 26)|~6 days|[below 100-view threshold]||||||||
+|Post 27 (Day 27)|~5 days|56% (M)|42% (F)|35%|47%|12%|2%|4%|Third post with a nonzero "Other" gender reading (2%).|
+|Post 28 (Day 28)|~4 days|44% (M)|56% (F)|29%|49%|18%|4%|0%||
+|Post 29 (Day 29)|~3 days|41% (M)|59% (F)|32%|46%|16%|2%|4%||
+|Post 30 (Day 30)|~2 days|29% (M)|71% (F)|25%|46%|20%|4%|5%|Final Phase 1 post — only 7 viewers behind this reading, preliminary.|
 |||||||||||
 
 ### Traffic Sources & Viewer Type
@@ -265,6 +295,16 @@ _What "Others" means: TikTok Studio only breaks out individual figures for a lim
 |Post 19 (Day 19)|~6 days|96.5%|0.9%|2.6% (Other)|100%|97%|104||
 |Post 20 (Day 20)|~5 days|100.0%|<0.1%|<0.1% (Other)|100%|100%|96|Cleanest single-source FYP reading of this batch.|
 |Post 21 (Day 21)|~4 days|100.0%|<0.1%|<0.1% (Other)|100%|100%|142||
+|**Week 4 Aggregate** (3–9 Aug)|7 days|98.9%|1.1%|0%|99.4% (809/814)|—|814|Both total viewers (880→814) and new viewers (839→809) declined again — second consecutive week of reach contraction, matching the declining-reach trend already flagged in the Day 21 synthesis. Most-active-time data (new this week): viewers most active 0–1am, directly matching the 11 PM posting window.|
+|Post 22 (Day 22)|~10 days|[below 100-view threshold]|||98%|100%|88||
+|Post 23 (Day 23)|~9 days|100.0%|<0.1%|<0.1% (Other)|100%|100%|97||
+|Post 24 (Day 24)|~8 days|96.6%|2.7%|<0.1% (Other)|98%|100%|134|First appearance of Direct Messages as a nonzero source this batch (0.7%).|
+|Post 25 (Day 25)|~7 days|100.0%|<0.1%|<0.1% (Other)|97%|100%|181||
+|Post 26 (Day 26)|~6 days|[below 100-view threshold]|||99%|100%|91||
+|Post 27 (Day 27)|~5 days|99.0%|<0.1%|1.0% (Other)|94%|100%|101|Highest Returning-viewer rate of this batch (6%).|
+|Post 28 (Day 28)|~4 days|100.0%|<0.1%|<0.1% (Other)|84%|100%|134 (updated; +102 in most recent day)|Earlier reading of 32 total viewers was simply an early snapshot — grew to 134 as more time passed, consistent with the normal pattern of reach expanding over several days.|
+|Post 29 (Day 29)|~3 days|100.0%|<0.1%|<0.1% (Other)|97%|100%|132 (+122 in most recent day)||
+|Post 30 (Day 30)|~2 days|98.3%|1.7%|<0.1% (Other)|100%|100%|7|Very early reading — the account's final Phase 1 post, still accumulating its own data.|
 |Post 4 (Day 4)|~72 hrs|—|—|—|—|—|146 (+117 vs. 1 day ago)|**Biggest single-day jump of any post so far**, by a wide margin — this revises the earlier "weak seed" read on Post 4. It wasn’t stalled, it was just slow to open up; 29 → 146 in one day is a real expansion.|
 |Post 3 (Day 3)|~96 hrs|—|—|—|—|—|147 (+1 vs. 1 day ago)|Fully plateaued now — 146 → 147, essentially flat.|
 |Post 2 (Day 2)|~120 hrs|—|—|—|—|—|180 (+3 vs. 1 day ago)|Plateaued — 177 → 180, growth has stopped.|
@@ -281,6 +321,7 @@ An ongoing practice, not a one-off incident — worth its own running log since 
 |---|---|---|---|
 |Since Account Three's launch through ~Day 14|~3–4 in the most recent week|~6 total|Deliberate trade-off: slower visible follower growth in exchange for a clean, real list. Worth remembering when reading the raw follower count against the Day 30 target (100) — the current count is a _filtered_ number, not an inflated one, which is a quality signal in its own right even though it makes the raw pace look slower.|
 |~Day 15–21|3|~9 total|Continuing the same practice consistently — third consecutive week of active blocking.|
+|~Day 22–28|3|~12 total|Fourth consecutive week — the practice is now a stable habit, not a one-off response to a spike in fake follows.|
 
 A place to record ideas the moment they occur — like the posting-time question below — without acting on them before there's enough data or before the appropriate checkpoint arrives. This is the deliberate version of "document reasoning before data exists to bias it."
 
@@ -316,6 +357,7 @@ A place to record ideas the moment they occur — like the posting-time question
 |Day 24 (~5 Aug)|**Qualitative outside data point: an unsolicited comment claiming content "doesn't grab attention," weighed against the language-barrier theory rather than instead of it.** Low quality as feedback — no specifics, likely based on a quick profile glance, from a creator in a structurally different, broader-reach niche (anime/entertainment vs. niched educational content). Not dismissed outright, though: the account's own completion data (avg. ~1/5–1/6 slides viewed, sub-5% full-watch, consistent across nearly every post) is independent evidence that hook/pacing/attention-grabbing has real room to improve, separate from who the audience is.|An outside comment plus a cross-check against the account's own already-logged completion-rate data.|None — noted as a second, controllable lever alongside the geography question, not a reason to change anything mid-Phase-1.|Two explanations for weak engagement can both be true without conflict: geolocation/language likely explains most of the _reach_ numbers (who sees it, and whether they can understand it), while hook/pacing strength is a separate, real lever that explains why even the audience that _can_ engage mostly isn't finishing the carousel. Worth treating both as legitimate improvement areas for Phase 2/Season 2 content, rather than letting the geography explanation fully absorb the completion-rate data.|Logged — outside opinion weak on its own, but a useful prompt to hold the hook/pacing question alongside the language question rather than letting one explain away the other|
 |Day 24 (~5 Aug)|**Major correction to the aggregate-engagement-rate reasoning used throughout this log: the raw aggregate rate is diluted by audience composition and likely understates engagement among viewers who can actually read the content.** Bounding estimate using each week's clearly-identifiable English-official-language countries (a conservative floor — South Africa, USA, Australia, Canada, Pakistan, Zambia, India, Philippines, varying by week) as a share of total viewers, divided into that week's aggregate engagement rate: Week 1 (~11.4% English-floor, 2.24% aggregate) → ~19.7% _within-group_ rate if all engagement came from that floor. Week 2 (~12.0% floor, 1.12% aggregate) → ~9.3%. Week 3 (~14.4% floor, 1.76% aggregate) → ~12.2%.|Kuda's own reasoning, checked with an actual bounding calculation against the weekly aggregate data already logged.|None — this is a reframing of existing data, not a new decision.|**Important caveats, not hidden:** this is an upper-bound scenario assuming zero engagement from non-English-floor viewers, which is unlikely to be exactly true. The English-floor figure is deliberately conservative and almost certainly undercounts real proficiency (individual fluency isn't the same as country-level official-language status, and the large "Others" bucket each week is entirely unaccounted for). Even with all that slack, a plausible 9–20% within-group engagement range is a fundamentally different, more encouraging story than the 1–2% aggregate rate suggests on its own. **This meaningfully strengthens the language-barrier hypothesis** beyond the "plausible, partially supported" status logged earlier — the earlier cross-tabs (checking single dominant countries per post) were the wrong test; this dilution-adjusted framing is the more correct one.|**Substantially upgraded — aggregate engagement numbers should be read as diluted, not as a true measure of content quality, going forward**|
 |Day 24 (~5 Aug)|**Correction to the entry above — tested against Posts 13–21's individual data, the dilution theory doesn't hold cleanly at the post level.** Posts 13, 17, and 19 — the three highest English-floor posts in this batch (78.5%, 57.9%, 74.8%, all Malawi-dominant) — show the _lowest_ bounded engagement rates (2.4%, 1.2%, 3.6%), close to the opposite of the prediction. Post 15 (29.4% floor) bounded to 11.2%, in line with the earlier weekly-aggregate estimates.|Nine individually-logged posts (13–21), each with real location and engagement data, checked against the bounding method from the entry above.|None — correcting the read, not changing the posting/content approach.|**The likely flaw: "English-official country" is a much coarser proxy than the previous entry treated it as.** Malawi's official-English status doesn't mean the population reads fast, idiomatic, image-and-text-dense marketing carousels comfortably — many Malawians speak Chichewa day to day, with English used more for schooling and government than casual content consumption. The weekly aggregates (Week 1–3) that seemed to support the dilution theory were likely supported by coincidence of country mix rather than a real, testable relationship — this is a good example of a hypothesis that looked confirmed with a small, coarse dataset and did not hold up against a larger, more granular one.|**Walked back — from "substantially upgraded" to "genuinely mixed, country-level language proxy too coarse to trust cleanly." Real per-viewer language/comprehension data doesn't exist and can't be estimated reliably this way.**|
+|Day 30|**Phase 1 close-out: the geography oscillation question is resolved.** The full 30-post cumulative average is Vietnam 41.3%, Mozambique 15.4% — landing almost exactly where Week 1 (40.8%) and Week 4 (39.9%) did. The wild Week 2/3 swings (57%, 32.3%) were real per-week volatility around a stable center, not evidence of a directionless drift. Four weeks of "is this trending or oscillating" is answered: it was oscillating around a real, now-visible average.|Full Phase 1 cumulative geography (13 Jul–11 Aug, all 30 posts) compared against each week’s aggregate.|None — this is the closing read for Phase 1, informs Phase 2 planning rather than changing anything retroactively.|This is a good general lesson worth carrying into Phase 2: weekly aggregates smoothed post-level noise but were still too few in number to reveal the stable center on their own — it took the full 30-post sample to separate signal from volatility cleanly. The same caution should apply to any Phase 2 metric read before it has enough volume behind it.|**Resolved — 41.3% Vietnam / 15.4% Mozambique is the real Phase 1 average, not an unstable number**|
 |||||||
 
 ---
@@ -335,7 +377,7 @@ Every 7 days — Days 7 / 14 / 21 / 28 / 35 ... through Day 90, counted from 13 
 |Day 7|4 (from 1)|12 (+7)|1,249 (~1.2K)|28 / 0 / 11|883 unique viewers reached this week (all new — 0 returning). Vietnam remains the single largest audience segment in aggregate (40.8%), but "Others" at 24.1% plus meaningful Mozambique (14%), Brazil, South Africa, and USA shares show the account hasn't collapsed into local-market dominance — the diffuse-international goal from the cold-start protocol is holding at the aggregate level even though individual posts have swung hard (Posts 4–5 regional, 6–7 Vietnam-heavy). Follower growth (1→4) is well behind a naive linear pace toward the 100-by-Day-30 target — worth naming honestly rather than smoothing over, though consistent with the recent reasoning that Follow is the least controllable, most lagging metric of the ones being tracked.|Full week: research discipline under uncertainty, distinguishing seed-test vs. steady-state signal, scaling monitoring to evidence, distinguishing controllable vs. uncontrollable CTA signals, weighing mid-cycle tightening vs. full-cycle overhaul (see Section 5 for full entries)|[ ]|
 |Day 14|8 (as of 28 July, when the report was pulled — 7 was the 26 July figure, +1 in the two days between)|10 (this week, 21–26 July)|~1,161 (~1.2K, this week)|13 / 0 / 0 (this week)|**Week 2's decisive result: Vietnam's aggregate share rose from 40.8% (Week 1) to 57% (21–26 July window)** — this supports the "real audience forming" read over pure sampling noise, since aggregates are what wash out per-post volatility. Female skew also confirmed at the aggregate level (73%), extending the 5-post streak into a full-week pattern. Against that: likes, shares, and profile views all declined notably from Week 1 (likes 28→13, shares 11→0, profile views 12→10) — a genuine weaker engagement week, not yet explained. **External validation:** TikTok's own official Creator Weekly Report for 13–19 July (7 posts, ~1K views, 28 likes) matches the manually-collected Week 1 data almost exactly — good confirmation the tracking method itself is reliable.|Reconciling independent data sources against each other; connecting current engagement decline to the original Account One research (see Open Hypotheses below)|[ ]|
 |Day 21|9 (all time)|6 (this week)|911 (this week)|16 / 0 / 0 (this week)|**Correction to the Week 2 read: the Vietnam "escalating trend" did not continue.** Week 1: 40.8% → Week 2: 57% → Week 3: 32.3% — this is an oscillation, not a climb, and Week 3 landed even lower than Week 1. The "forming Creator Fingerprint" hypothesis from Day 14 is walked back to "elevated volatility, no stable direction confirmed across three weeks." Mozambique also moved non-monotonically (14% → 11.5% → 17%). Engagement rate this week (16/911 ≈ 1.76%) sits between Week 1 (2.24%) and Week 2 (1.12%) — checked against the language-barrier hypothesis, this is genuinely mixed: Week 2 supports it (highest Vietnam%, lowest engagement%), but Week 1 vs. Week 3 doesn't (Week 3 has lower Vietnam% than Week 1 but also lower engagement%, the opposite of what the theory predicts). Individual post data for Posts 13+ and the official TikTok report still pending, expected tomorrow.|Correcting an earlier read honestly rather than letting it stand; cross-checking a hypothesis rigorously across three data points instead of stopping at two|[ ]|
-|Day 28||||||||
+|Day 28|9 (no change — zero new followers this week, first fully flat follower week)|11 (+6, 120%)|931 (-69, -6.9%)|2 / 0 / 0 (likes -16, -88.9%; comments -1, -100%)|**Follower growth has fully stalled** — 9→9, zero net change, the first week with no movement at all. Likes dropped sharply from Week 3's 16 to just 2. **Notable: the -1(-100%) on comments means a comment briefly existed in the trailing window that isn't reflected in any post logged so far** — first comment signal of the entire cycle, source unconfirmed (likely on Post 22–27, not yet individually logged). Geography: Vietnam 39.9%, close to Week 1's 40.8% rather than continuing to oscillate wildly — worth watching whether this is the start of stabilization. Mozambique 17.1%, nearly identical to Week 3's 17% — two consecutive weeks this close is new. Gender 59% female, also close to Week 3's 60% — same possible stabilization signal. "Creators your viewers also watched" list includes Samsung Vietnam Store, TikTok For Small Business, and an apprenticeship-content creator — a small qualitative signal consistent with the audience mix.|Reading a flat week honestly without alarm; noticing a first-time signal (the phantom comment) worth flagging even without a confirmed source|[ ]|
 |Day 35||||||||
 |Day 42||||||||
 
@@ -370,6 +412,42 @@ _Sum check: video views 193+181+176+168+184+116+231 = 1,249 — matches the "~1.
 |26 July|7|+1|228|1|2|0|0|
 
 _Sum check: video views 167+160+129+113+225+139+228 = 1,161 (~1.2K) — matches the weekly report. Likes sum to 13, shares sum to 0, profile views sum to 10 — all match the official weekly report exactly. The follower total in the widget (8, "All time") was pulled on 28 July, two days after this table's last entry (7, on 26 July) — the extra follower simply arrived in that gap, not a real discrepancy. Shares were zero on every single day this week, a genuine change from Week 1's spread of 0–5 per day._
+
+### Day 21 Trends Synthesis — What's Actually Trending vs. What's Just Volatile
+
+A pulled-together read across all three weeks, built for the Day 30 review rather than reconstructed from scratch there.
+
+**The one real trend that isn't good news — declining reach, consistently, not oscillating:**
+
+||Week 1|Week 2|Week 3|Week 4|
+|---|---|---|---|---|
+|Weekly video views|1,249|1,161|911|931|
+|Per-post average (7 posts each)|168.9|141.1|128.0|133.0|
+
+Both the weekly aggregate and the per-post average dropped monotonically across the first three weeks. **Week 4 update:** views ticked up slightly (911→931), essentially flat rather than continuing the decline — worth watching whether this is a genuine floor forming or just noise around a low plateau. Total viewers and new viewers both kept declining (880→814, 839→809), so reach isn't recovering even though raw views stopped dropping.
+
+**Follower pace, updated:** 4 (Day 7) → 8 (Day 14) → 9 (Day 21) → 9 (Day 28). **Growth fully stalled this week — zero net change.** The 100-follower Day 30 target was already effectively out of reach after Week 3; Week 4 confirms it. Not a crisis — the "Plan vs. Tombstone" framing in the 90-Day Strategy exists for exactly this — but worth having fully internalized before the Day 30 checkpoint rather than hoping for a late surge.
+
+**Genuinely stable patterns (consistent baselines, not oscillating):**
+
+- Traffic source: 95–100% FYP on nearly every single post, no exceptions across 29 posts
+- Age: 70–90%+ of viewers in 18–34 on almost every post and every weekly aggregate — solid since Day 1
+- New vs. returning viewers: consistently 95–100% new — no repeat audience has formed yet
+- Completion rates: low (1–7% full-watch, ~1/5–1/6 avg. slides) across nearly every post, regardless of which country dominates that post
+- Follow conversion: rare and disconnected from other engagement on essentially every post
+
+**Possible emerging stabilization — new in Week 4, not yet confirmed:**
+
+- Geography: Vietnam 40.8% → 57% → 32.3% → 39.9% — Week 4 landed close to Week 1 rather than continuing to swing
+- Geography: Mozambique 14% → 11.5% → 17% → 17.1% — the last two weeks are nearly identical, the first close pair in the whole log
+- Gender: 52% → 73% → 60% → 59% — same pattern, last two weeks close together
+- All three are two-data-point signals at most. Week 5 is the real test of whether this is the account settling or just a quieter stretch of the same volatility.
+
+**Still unresolved:**
+
+- Search indexability — last direct test found nothing; the small nonzero "Search" traffic source seen later is confounded by the Day 3 keyword edit
+- The language-barrier-vs-engagement question — the country-level proxy used to test it was shown to be too coarse to trust cleanly (Day 24 correction)
+- A comment briefly existed somewhere in the Week 4 window (per TikTok's own -1/-100% delta) that isn't attributed to any logged post — first comment signal of the cycle, source unconfirmed
 
 ---
 
@@ -467,9 +545,21 @@ The load-bearing checkpoints — where a phase closes and the next one's targets
 
 |Metric|Target|Actual|
 |---|---|---|
-|Final follower count|100||
-|FYP niche-alignment check|90%+||
-|30-post performance summary|—||
+|Final follower count|100|**9** (net +8 from the Day 0 baseline of 1) — missed by a wide margin, as flagged from Week 3 onward|
+|FYP niche-alignment check|90%+|**98.9%** — target met cleanly, the one number that hit its bar|
+|30-post performance summary|—|Video views: 4.3K · Profile views: 40 · Likes: 60 · Comments: 1 · Shares: 11 · Total viewers: 3.4K · New viewers: 3.3K (97% of total)|
+
+**Full Phase 1 cumulative demographics (13 Jul – 11 Aug, all 30 posts):**
+
+- Gender: 60% Female, 40% Male
+- Age: 18–24 37.1%, 25–34 46.2%, 35–44 10.4%, 45–54 4%, 55+ 2.3% — 83.3% in 18–34
+- Locations: Vietnam 41.3%, Mozambique 15.4%, Mauritius 4.2%, Nepal 3.8%, South Africa 3.6%, Brazil 3.6%, USA 3.4%, Pakistan 2.6%, Zambia 1.6%, Australia 1.3%, Others 19.2%
+
+**This resolves the Vietnam oscillation question raised across Weeks 1–4.** The full-cycle average (41.3%) lands almost exactly where Week 1 (40.8%) and Week 4 (39.9%) did — the wild weekly swings (57%, 32.3%) mostly cancel out over the full period. **41.3% Vietnam / 15.4% Mozambique across all 30 posts is the real, stable answer** — not an oscillation without a center, an oscillation _around_ a center that's now visible with enough data. The "possible stabilization" flagged in Week 4 is confirmed by this full-cycle number.
+
+**The phantom comment is confirmed real:** 1 comment, all-time — matches the Day 28 -1(-100%) delta exactly. Source still not individually attributed to a specific post.
+
+> **Resolution of the Day 15 flag above:** the fingerprint that formed is genuinely Vietnam/Mozambique-leaning, exactly the scenario flagged as worth checking. Phase 2's English-language funnel (the "Comment IGNITION" CTA and Phase 3 product sales) is built for an audience that isn't the one the algorithm settled on. This doesn't mean Phase 1 failed — the FYP-alignment target was hit cleanly, meaning the account did get discovered and distributed as designed — but the follower/subscriber conversion math for Phase 2 needs to be revisited with this audience composition in mind, not the originally assumed all-English-speaking beginner audience.
 
 > **Flag to check deliberately at this review, logged Day 15 so it isn't a surprise later:** if the Creator Fingerprint that forms by Day 30 is genuinely Vietnam/Southeast-Asia-leaning (per the timezone-displacement mechanism in the Open Hypotheses log), that has a real downstream implication — Phase 2's "Comment IGNITION" CTA and Phase 3's product sales are both English-language and built for an English-speaking beginner audience. A fingerprint that skews toward a non-English-dominant audience could mean strong FYP distribution and view counts that structurally can't convert into list-building or sales, regardless of how good the CTA or offer is. This isn't a reason to act now — Phase 1's job is still just to get profiled — but it is worth checking explicitly at Day 30, alongside the follower and alignment numbers: not just "did the account get discovered," but "by whom, and can that audience actually become subscribers and buyers."
 
@@ -515,9 +605,28 @@ _Duplicate this table's row structure for each new incident — one row is rarel
 
 ---
 
-## 9. The Close-Out Document (Day 90)
+## 9. The Close-Out Document
 
 Modeled on the existing Project Zero Outcomes doc. Built from everything logged in Sections 0–8 above — this section is the synthesis, not a fresh writing exercise.
+
+### Strategy v1 Close-Out — Concluded Early at Day 30 (12 Aug 2026)
+
+**Decision:** the 90-day strategy (Modules 1–7, built with zero data at launch) is concluded at Day 30 rather than run to Day 90. This is not a failure — the strategy's actual job was to generate real data to replace the calculated guesses it was built on, and it did exactly that. Moving to a v2 strategy, informed by 30 posts of real evidence, is the plan working as intended, not a deviation from it.
+
+**Two issues identified, graded by confidence — not all evidence carries equal weight:**
+
+**Issue 1 — Geographic/language distribution mismatch.** Largely outside direct control; posting time is the one real lever (already tested once, inconclusively — see Open Hypotheses log). Confirmed by data: the account's Phase 1 audience is 56.7% Vietnam + Mozambique combined, structurally explained by the timezone-displacement mechanism (Day 15 entry).
+
+**Issue 2 — Content/positioning too broad ("digital marketing for beginners" is too generalized a niche).** A reasoned diagnostic judgment, not a data-proven fact — worth being precise about this distinction:
+
+- _Solidly confirmed:_ completion rate stayed low (1–7%) across nearly every post regardless of which country dominated — this cannot be fully explained by language barrier alone, since it held even on posts with a high estimated English-speaking share.
+- _Partially confirmed, with a confound:_ zero returning viewers across all 30 days — real signal, but also structurally expected with only 9 followers, a small pool with reason to return regardless of content quality.
+- _Weak, not strong evidence:_ 100% FYP / no search traffic — this is expected default behavior for any new account this early, per the account's own algorithm research (search ranking takes far longer than 30 posts to develop). Shouldn't be weighted as evidence of poor targeting specifically.
+- **Conclusion:** the "niche is too broad" diagnosis is a sound, defensible judgment call consistent with the confirmed evidence and with the account's own established frameworks (directly applying the Day 28 content lesson — "the more people you try to speak to, the fewer you actually reach" — to its own positioning). It is not something the data proves in isolation from Issue 1; the two are genuinely entangled in this dataset.
+
+**What this does NOT change:** Phase 1's actual mechanical results stand as logged — 9 followers, 98.9% FYP alignment, 41.3%/15.4% Vietnam/Mozambique. Nothing here revises those numbers, only what to do in response to them.
+
+**Next step, pending:** v2 strategy work (revisiting Module 1 positioning, brand type, and archetype — previously deferred at Day 8) is now data-triggered rather than opinion-triggered. Not yet started as of this entry.
 
 - [ ] What Was Built
 - [ ] Results & Metrics table
@@ -526,7 +635,7 @@ Modeled on the existing Project Zero Outcomes doc. Built from everything logged 
 - [ ] What Didn't Work
 - [ ] Key Learnings
 - [ ] Unexpected outcomes no metric captures
-- [ ] Strategy Validity Assessment — answers the Primary Question from Section 1, against the actual Day 30 / 75 / 90 numbers
+- [x] Strategy Validity Assessment — answered above (Day 30 early conclusion, two-issue diagnostic)
 - [ ] Skills & Teachability Assessment — answers the Meta Question from Section 1, drawing directly on the Section 5 log
 
 > The last two items are the ones worth protecting deliberately — they're the categories most likely to get dropped in a rush to finish the report, and they're usually where the most honest and most useful material lives, both for this cycle and for whatever gets taught from it next.
