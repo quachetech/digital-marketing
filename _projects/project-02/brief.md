@@ -1,7 +1,7 @@
 # IGNITED v2 Brand Strategy
 
 Brief: Describe what this is and what it's supposed to achieve and what it's answering.
-## # IGNITED — Module 1: Brand Positioning
+# IGNITED — Module 1: Brand Positioning
 
 ## Quaché Digital — Season 2
 
@@ -68,7 +68,7 @@ The skill isn't the missing piece — positioning is. I build the structure that
 
 ### The Transformation Map (Point A → Bridge → Point B)
 
-||Point A|Bridge (USP step)|Point B|
+| |Point A|Bridge (USP step)|Point B|
 |---|---|---|---|
 |Self-perception|"I don't know if I'm even good at this"|Diagnose|"I know exactly what's broken and it's not my skill"|
 |Content|Random, reactive, starts from scratch each time|Position|Systematic, generated from a clear ICP, sustainable|
@@ -179,7 +179,19 @@ Three load-bearing words:
 |Conversion|"how do I sell my product," "how do I build a list," "How do I gain traction?"|
 |General/self-doubt (cuts across all three)|"clearly I'm not a good content creator," "my account isn't growing"|
 
-### Her Day, As It Actually Happens
+### The AB Gap — Full Framework (Formalized)
+
+_(This section formalizes the AB Gap as Quaché Digital's central, generalized model. It was previously implicit inside Tino's profile and Module 1's earlier references — this is its proper, complete home. Everything elsewhere in this document that references the AB Gap should be read against this definition.)_
+
+**Core definition:** The AB Gap is the unbridged space between **A** (the current state of unresolved pain points) and **B** (the desired state of clear transformation). This is a generalized, parameterized model — any brand, including this one, can plug in its own A, its own B, and the specific shape of the Gap between them, and use the same structure to self-diagnose.
+
+**The Recursive Property (structurally significant):** A brand's own unresolved AB Gap creates an AB Gap for its own clients. This is not a metaphor — it is a direct, load-bearing constraint on what this brand is allowed to sell or teach at any given time.
+
+Applied concretely: Quaché Digital's own Conversion Costume — real reach and engagement, with no proven sales funnel yet — is the brand's own unresolved AB Gap. Per the Recursive Property, this means the brand cannot yet honestly sell or teach a "how to convert" product, because that gap hasn't been closed in the brand's own practice. Doing so would repeat the exact "Sold the Outcome" pattern this brand is positioned against, only inverted — teaching a transformation not yet demonstrated in-house.
+
+**Direct governing rule, downstream of this property:** no product, piece of content, or claim should promise resolution of a costume the brand has not itself closed. This is the specific mechanism behind Module 3's product-tier boundaries (Part D–F) — Tiers 1 and 2 stay strictly inside Confusion Costume territory, and Conversion-Costume-resolving products are correctly gated to Tier 3, pending the brand's own proof.
+
+**Self-diagnosis as a standing practice:** because the model is parameterized, Quaché Digital should periodically run its own AB Gap diagnostic (per the Costume Diagnostic's own logic, Module 3) as an internal check — not just apply it to Tino. This keeps the Recursive Property from becoming a one-time insight and makes it an ongoing discipline, consistent with the Document & Revise value (Part J).
 
 A draining job, ~90 minutes of real energy left after it. She opens her content app to plan or post and hits one of three recurring internal stalls — not laziness, not lack of discipline, but a positioning problem consistently misdiagnosed as a character flaw.
 
@@ -254,8 +266,8 @@ This resolves the tension between "teach with authority" and "a few steps ahead,
 
 **Current architecture: Topic Brand, deliberately — Business Brand layered in only once the Topic Brand is established.**
 
-| Type of Brand       |Topic Brand|Business Brand|
-|---|---|---| 
+|                     |Topic Brand|Business Brand|
+|---|---|---|
 | What it's known for |A subject, a lens, a voice on a specific problem|A place to transact|
 | What it asks for    |Attention, resonance, recognition|Money, commitment|
 | How trust is built  |Consistency, relevance, being right repeatedly|Delivery on paid promises|
@@ -361,6 +373,8 @@ Four positioning-level messages; every piece of content should ladder up to at l
 ---
 
 _End of Module 1. Modules 2–8 (Goals, Product Validation, Content Strategy, Content Planning & Production, Community Strategy, Systems/Funnels/Backend, Monitoring & Evaluation) build forward from this document._
+
+---
 
 ---
 
@@ -502,3 +516,173 @@ _End of Module 2. Module 3 (Product Validation) builds the actual lead magnet an
 
 ---
 
+---
+
+# IGNITED — Module 3: Product Validation
+
+## Quaché Digital — Season 2
+
+_Status: Finalized. Products built from the brand strategy, not retrofitted to it — sourced directly from the USP method, Transformation Map, and Three Costumes._
+
+---
+
+## Part A — Where Products Actually Come From
+
+Four sources, all already established elsewhere in this document:
+
+1. **The USP Method** (Diagnose → Position → Architect → Test → Document) — each step is a discrete, teachable action Tino could do herself. A product can operationalize any single step.
+2. **The Transformation Map** (Module 1, Part B) — each row is a specific state-change; a product can be the vehicle that produces one row's shift.
+3. **The Three Costumes** — each is a distinct, nameable pain point with its own confirmed language (Module 1, Part E); a product scoped to one costume speaks with precision instead of generically.
+4. **Season 1's actual data and existing frameworks** — the comment-mining method, the documentation-trail practice, and the AB Gap/GPS/SRT frameworks are already-tested IP, not theory.
+
+---
+
+## Part B — Product Ideas, Mapped to Source
+
+|Idea|Sourced from|What it does|
+|---|---|---|
+|The Costume Diagnostic|Diagnose step + Three Costumes|Identifies which costume someone is actually wearing|
+|The AB Gap Map|Position step + Transformation Map|Lets Tino map her own A → Bridge → B in her own words|
+|Content Cluster Starter Kit|Architect step + live content-clustering method|Teaches the pillar/cluster/format-angle method directly|
+|Documentation Starter Log|Test + Document steps|Teaches the documentation habit itself — flagged as possibly better suited to a content series than a static product|
+
+---
+
+## Part C — Scale Discipline: Why No Flagship Product Yet
+
+Season 2 is explicitly a building-and-proving phase. Per the founder's own stated capacity and positioning constraints, no large-scale product, program, or flagship methodology is in scope yet:
+
+- **Social Proof Requirement (Module 2, Part G)** — a hard gate against selling anything requiring deep trust before proof exists
+- **Solo capacity (SWOT Weakness)** — live, ongoing delivery formats are a real bandwidth risk stacked on top of the existing 1x/day content and documentation cadence
+- **Brand Architecture sequencing (Module 1, Part G)** — Business Brand layers in only after Topic Brand is established; a membership is a deep Business Brand commitment, premature this early
+- **The Recursive Property (Module 1, AB Gap formalization)** — the brand cannot yet sell what it hasn't proven in its own practice, which specifically excludes any Conversion-Costume-resolving product for now
+
+This produces a natural three-tier structure: two small, immediately buildable products, and one clearly-named future concept, explicitly gated rather than built prematurely or forgotten.
+
+---
+
+## Part D — Full Product Scoping
+
+### Tier 1 — Free Lead Magnet: The Costume Diagnostic
+
+|||
+|---|---|
+|Format|Short interactive quiz or fillable one-pager (5–7 questions)|
+|Source|Diagnose step; Three Costumes framework|
+|Costume addressed|All three — this is the sorting mechanism itself|
+
+**Features:**
+
+- 5–7 diagnostic questions built from confirmed comment-mined language
+- A result naming her specific costume by name, with a one-paragraph explanation of what's actually happening underneath the surface symptom
+- A short "what this costume is not" corrective, dismantling her likely self-diagnosis
+
+**Benefits:**
+
+- She stops guessing at what's wrong and gets a name for it
+- Immediate relief — Recognition and Relief, the first two stages of her Emotional Arc, delivered in one sitting
+- Zero cost, zero risk — the lowest possible trust ask
+
+**SRT:**
+
+- _Solution:_ A short, honest diagnostic naming which costume she's wearing
+- _Result:_ "I don't know what's wrong with me" becomes "I know exactly what's happening"
+- _Transformation:_ Self-blame becomes structural clarity
+
+**Scope check:** buildable solo, in a short window, using only existing frameworks.
+
+### Tier 2 — Low-Ticket Bundle: The AB Gap Starter Kit
+
+**Component A — The AB Gap Map**
+
+|||
+|---|---|
+|Format|Fillable worksheet/workbook (PDF or Canva template)|
+|Source|Position step; the Transformation Map structure|
+|Costume addressed|Confusion (primary), light Saturation relevance|
+
+**Features:** A structured worksheet walking through her own Point A, Gap, and Point B — the same structure used to build this brand's own positioning. Prompts drawn from the Objection Mapping and confirmed costume-moment language. A short explainer of the Recursive Property, so she understands why mapping her own gap matters before serving anyone else's.
+
+**Benefits:** The same clarity-generating exercise that built this entire brand strategy, scaled to her. A tangible, revisable artifact — modeling Document & Revise for her own brand.
+
+**SRT:** _Solution_ — a guided worksheet mapping her specific A, Gap, and B. _Result_ — a written, specific positioning problem instead of a vague feeling of being stuck. _Transformation_ — "I don't know what's wrong or what I want" becomes "here is my gap, named and specific."
+
+**Component B — The Content Cluster Starter Kit**
+
+|||
+|---|---|
+|Format|Short guide + template|
+|Source|Architect step; live content-clustering method|
+|Costume addressed|Confusion — directly, the highest-prevalence costume (60–70% of mined data)|
+
+**Features:** Teaches the pillar → cluster → 10+ format-angle method as currently used. A fillable template for her own clusters. An explicit, honest scope note: addresses Confusion-caused stalling, not a broken sales funnel — consistent with the Recursive Property.
+
+**Benefits:** A real, reusable idea-generation system, not a one-time prompt list. Genuinely tested — actively producing this brand's own Season 2 content.
+
+**SRT:** _Solution_ — a repeatable content-idea system. _Result_ — a working idea bank instead of a blank calendar. _Transformation_ — "I ran out of things to say" becomes "I have a system that keeps generating what to say next."
+
+**Bundle scope check:** both components reuse structures already built for this brand — low build cost, high authenticity, genuinely "a few steps ahead."
+
+### Tier 3 — Future / Gated: The Threshold Room _(working name)_
+
+|||
+|---|---|
+|Format|Low-key membership — accountability check-ins, live Q&A, diagnostic calls, live trainings/updates|
+|Source|Natural evolution of Diagnose + Document & Revise into an ongoing, relational format|
+|Costume addressed|All three — critically, the tier where Conversion Costume work is finally permitted, once the brand's own gap is closed enough to teach it honestly|
+
+**Launch conditions (explicit gate):**
+
+- Module 2's Social Proof Requirement is met
+- Quaché Digital's own Conversion Costume shows real, demonstrated movement (satisfying the Recursive Property)
+- A capacity check confirms live delivery is sustainable solo at the likely membership size
+
+**Features (captured now, built later):** monthly/biweekly accountability calls, direct diagnostic support catching minor issues before they compound, live Q&A, real-time training as the method evolves — members watching Document & Revise happen live.
+
+**SRT (directional):** _Solution_ — ongoing, live, personalized diagnostic support. _Result_ — small issues caught and corrected before they compound. _Transformation_ — isolated self-teaching becomes a supported, ongoing relationship, closing not just her Confusion/Saturation gap but eventually her Conversion gap too, once both her funnel and the brand's own are proven.
+
+---
+
+## Part E — GPS Validation
+
+**Tier 1 — Costume Diagnostic:**
+
+- _G — Necessity:_ Strong, directly evidenced by confirmed verbatim language ("I don't know where to start," "clearly I'm not a good content creator," "my account isn't growing").
+- _P — Transformative:_ Strong — Recognition → Relief, checkable in a single sitting.
+- _S — Profitable:_ N/A by design (free tier); success measured via Prospect→Lead conversion (Module 2's North Star), not revenue.
+
+**Tier 2 — AB Gap Starter Kit:**
+
+- _G — Necessity:_ Strong. The AB Gap Map answers the upstream "I don't know what's wrong" cause; the Content Cluster Kit answers the downstream "I ran out of ideas" symptom directly. Bundling is necessity-coherent, not arbitrary.
+- _P — Transformative:_ Strong for both components individually; the combined transformation is stronger than either alone — a good sign this is a genuine bundle, not two unrelated products packaged together.
+- _S — Profitable:_ Genuinely open. Willingness-to-pay signal exists at the market level (real spend on adjacent coaches/courses/AI tools, per Module 1's competitive research), but that is not validation specific to this exact bundle — flagged honestly as untested, not assumed.
+
+---
+
+## Part F — SRT Consistency Check (Costume-Boundary Audit)
+
+|Product|SRT scope|Boundary check|
+|---|---|---|
+|Costume Diagnostic|Diagnosis only — no promise of fixing anything|Clean — purely identifies|
+|AB Gap Map|Clarity/mapping only — no promise of growth or sales|Clean — stays inside Confusion|
+|Content Cluster Kit|Idea-generation only — explicitly notes it doesn't address funnel/conversion problems|Clean, self-policing by design|
+
+No drift found. This check exists specifically to protect Documentation Honesty (Module 1, Part J) — a product quietly overclaiming into Conversion Costume territory would break that value even if unintentional.
+
+---
+
+## Part G — Pricing
+
+Provisional, reasoned starting position — explicitly not evidence-based yet, since Phase 3 hasn't opened and no real transaction data exists.
+
+|Product|Price|Reasoning|
+|---|---|---|
+|Costume Diagnostic|Free|Lead magnet by design — the Prospect→Lead entry point|
+|AB Gap Starter Kit (bundle)|$9–15 USD|Low-ticket, "few steps ahead" scale. Comparable to the cheap self-serve product category in the competitive research ($0–10 range), priced slightly above that floor to reflect genuinely tested frameworks rather than a generic template|
+|The Threshold Room (Tier 3)|TBD, deliberately|Correctly deferred until launch conditions (Part D) are met — premature to price an unbuilt, uncapacity-tested service|
+
+**Note for Module 8:** Tier 2 pricing should be one of the first things checked against real conversion data once Phase 3 opens, and should be labeled as a reasoned guess, not a data-backed figure, if referenced before then.
+
+---
+
+_End of Module 3. Module 4 (Content Strategy) builds the customer journey and pillar strategy that puts these products — and the free diagnostic in particular — into the actual funnel._
