@@ -413,6 +413,40 @@ _Sum check: video views 193+181+176+168+184+116+231 = 1,249 — matches the "~1.
 
 _Sum check: video views 167+160+129+113+225+139+228 = 1,161 (~1.2K) — matches the weekly report. Likes sum to 13, shares sum to 0, profile views sum to 10 — all match the official weekly report exactly. The follower total in the widget (8, "All time") was pulled on 28 July, two days after this table's last entry (7, on 26 July) — the extra follower simply arrived in that gap, not a real discrepancy. Shares were zero on every single day this week, a genuine change from Week 1's spread of 0–5 per day._
 
+### Week 3 Daily Account Totals — Supporting Detail for Day 21
+
+_Source: Kuda's own spreadsheet tracker (account-level daily readings, separate from per-post data), added retroactively on Day 30+._
+
+|Date|Video Views|Profile Views|Likes|Comments|Shares|
+|---|---|---|---|---|---|
+|27 July|169|2|7|0|1|
+|28 July|165|0|1|0|—|
+|29 July|108|1|5|0|1|
+|30 July|96|0|2|0|—|
+|31 July|115|1|1|0|—|
+|1 August|119|0|0|0|—|
+|2 August|139|2|0|0|—|
+
+_Sum check: video views total 911, likes total 16 — both match the Week 3 aggregate logged earlier **exactly**. High confidence in this table. **Correction worth flagging:** the original Week 3 checkpoint logged shares as 0 for the week, but this daily data shows at least 2 nonzero share days (27 and 29 July) — the earlier "0 shares" figure appears to have been an underreport at the time, not a real zero week. Corrected here rather than left standing._
+
+### Week 4 Daily Account Totals — Supporting Detail for Day 28 (approximate)
+
+|Date|Video Views|Profile Views|Likes|Comments|Shares|
+|---|---|---|---|---|---|
+|3 August|101|2|0|0|0|
+|4 August|107|1|0|0|—|
+|5 August|142|2|0|0|—|
+|6 August|143|1|2|0|0|
+|7 August|150|1|0|0|—|
+|8 August|149|2|1|0|0|
+|9 August|121|0|1|0|0|
+
+_Sum check: video views total 913 vs. the logged Week 4 aggregate of 931 — close but not exact (18-view gap), likely a minor window-boundary difference rather than an error. **Flagged as approximate, not authoritative** — presented as a useful reference, not a correction to the official weekly figure the way Week 3's was._
+
+### Pre-Launch Daily Activity (13 June – 12 July)
+
+Zero video views, likes, comments, and shares every single day from 13 June through 11 July — expected, since Account Three wasn't created until 30 June and posted nothing until 13 July. A few small profile-view blips appear despite zero content existing: 30 June (3), 1–3 July (1, 1, 2), 6 July (1), 11 July (2) — likely incidental visits during the ghost warm-up phase rather than anything meaningful. **12 July shows 54 video views**, the day _before_ the first post (13 July, 12:00 AM) — worth noting as a minor anomaly rather than explaining away; possibly a timezone/reporting-boundary quirk attributing some of Day 1's earliest views to the prior calendar date.
+
 ### Day 21 Trends Synthesis — What's Actually Trending vs. What's Just Volatile
 
 A pulled-together read across all three weeks, built for the Day 30 review rather than reconstructed from scratch there.
@@ -557,7 +591,26 @@ The load-bearing checkpoints — where a phase closes and the next one's targets
 
 **This resolves the Vietnam oscillation question raised across Weeks 1–4.** The full-cycle average (41.3%) lands almost exactly where Week 1 (40.8%) and Week 4 (39.9%) did — the wild weekly swings (57%, 32.3%) mostly cancel out over the full period. **41.3% Vietnam / 15.4% Mozambique across all 30 posts is the real, stable answer** — not an oscillation without a center, an oscillation _around_ a center that's now visible with enough data. The "possible stabilization" flagged in Week 4 is confirmed by this full-cycle number.
 
-**The phantom comment is confirmed real:** 1 comment, all-time — matches the Day 28 -1(-100%) delta exactly. Source still not individually attributed to a specific post.
+**The phantom comment is confirmed real, and now identified:** 1 comment, all-time — matches the Day 28 -1(-100%) delta exactly. Per TikTok's Content tab (pulled 13 August), it landed on Post 6 ("Posting every day without a strategy isn't marketing. It's just noise.," 17 July) — which is also the account's highest-viewed post (252 views per that same tab). The only post to get a comment is also the best-performing post by views; worth noting, not over-reading with n=1.
+
+**Top posts by views, per TikTok's own Content tab (13 August pull):**
+
+|Post date|Likes|Comments|Shares|Views|
+|---|---|---|---|---|
+|17 July (Post 6)|5|1|0|252|
+|13 July (Post 1)|5|0|1|194|
+|5 August|5|0|0|191|
+|26 July|4|0|4|182|
+|21 July|4|0|0|164|
+|14 July (Post 2)|4|0|0|163|
+|24 July|3|0|1|160|
+|19 July|3|0|3|159|
+|25 July|3|0|0|154|
+|28 July|3|0|0|148|
+|1 August|3|0|0|146|
+|8 August (Post 28)|2|0|0|144|
+
+_Titles were truncated in the source screenshot and not all individually re-matched to logged post numbers — dates and numbers are the reliable part of this table. Confirms Post 6 as the clear best-by-views post, consistent with what was already logged._
 
 > **Resolution of the Day 15 flag above:** the fingerprint that formed is genuinely Vietnam/Mozambique-leaning, exactly the scenario flagged as worth checking. Phase 2's English-language funnel (the "Comment IGNITION" CTA and Phase 3 product sales) is built for an audience that isn't the one the algorithm settled on. This doesn't mean Phase 1 failed — the FYP-alignment target was hit cleanly, meaning the account did get discovered and distributed as designed — but the follower/subscriber conversion math for Phase 2 needs to be revisited with this audience composition in mind, not the originally assumed all-English-speaking beginner audience.
 
