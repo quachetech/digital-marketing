@@ -1,4 +1,7 @@
-# IGNITED v2 — Module 1: Brand Positioning
+# IGNITED v2 Brand Strategy
+
+Brief: Describe what this is and what it's supposed to achieve and what it's answering.
+## # IGNITED — Module 1: Brand Positioning
 
 ## Quaché Digital — Season 2
 
@@ -153,6 +156,29 @@ Three load-bearing words:
 
 ## Part E — Tino, Deepened (Psychographic ICP)
 
+### Profile Snapshot (Sharpened & Integrated)
+
+**Self-Concept:** She doesn't doubt that she has something real to offer — she doubts her ability to make anyone else see it before they scroll past. This distinction matters: her confidence problem isn't emotional, it's structural. She's relentless and will act even while scared, which means she's not stuck for lack of will — she's stuck for lack of a system that turns effort into visible results. _(Sharpened from an earlier draft: this wasn't a confidence gap, it was a packaging-and-communication gap she was mislabeling as confidence.)_
+
+**Values:** Authenticity over polish. Working smart, not just hard. Self-investment. "Done is better than perfect." Mistakes as data — this last one isn't incidental; it's the exact value that makes her a natural fit for the brand's own Document & Revise step (Part B). She won't just tolerate a teacher who shows corrections in public — she'll trust one _more_ for it, because it mirrors a value she already holds about herself.
+
+**Goals:** Not simply "leave the job" — a two-stage goal, and conflating the stages is a real risk in how she's addressed. Stage one is building a brand that _could_ eventually replace the income; stage two is the actual exit. Content that implies immediate quitting is possible undersells the real timeline and risks landing as another Finished Performance (Part H). The honest goal: financial and time freedom, a sustainable and profitable brand, and eventually — not immediately — leaving the job. Living life instead of watching it from the sidelines is the emotional core underneath all three.
+
+**Common Enemy:** External — **The Finished Performance** (Part H): creators and gurus who only show up post-transformation, making the process look smoother and more certain than it was. Internal — the draining job and the employee mindset that follows her into solopreneur hours, expected to switch from staff to CEO with no transition built in.
+
+**Subculture:** Building-in-public. Self-taught-and-proud. Distrustful of guru-authority-without-story — this is the direct psychographic root of the Objection Mapping below. Her subculture identity and her objections aren't two separate things — the objections are what the subculture distrust sounds like in her own voice.
+
+**Content Diet:** Inspiration (the life she wants, modeled honestly — not aspirational fantasy). Motivation (raw building-in-public journeys, not polished wins). Education (people who teach without gatekeeping, earning trust through the teaching itself, not through credentials). Content that fails to name a mechanism — pure hype, pure encouragement with nothing underneath — actively disqualifies a creator from her diet, even if well-produced. This is a filtering behavior, not just a preference, and it directly enforces the brand's own "never vague encouragement with no mechanism" voice rule (Part F).
+
+**Confirmed Search/Comment Language, mapped to costume:**
+
+|Costume|Verbatim language|
+|---|---|
+|Confusion|"I don't know where to start," "I ran out of content ideas," "I'm afraid to show my face"|
+|Saturation|_(gap — no directly confirmed verbatim phrase yet mapped to this costume specifically; consistent with the comment-mining log's own note that Saturation is underrepresented, ~7 entries against Confusion's ~33. Flagged for future comment-mining.)_|
+|Conversion|"how do I sell my product," "how do I build a list," "How do I gain traction?"|
+|General/self-doubt (cuts across all three)|"clearly I'm not a good content creator," "my account isn't growing"|
+
 ### Her Day, As It Actually Happens
 
 A draining job, ~90 minutes of real energy left after it. She opens her content app to plan or post and hits one of three recurring internal stalls — not laziness, not lack of discipline, but a positioning problem consistently misdiagnosed as a character flaw.
@@ -228,12 +254,12 @@ This resolves the tension between "teach with authority" and "a few steps ahead,
 
 **Current architecture: Topic Brand, deliberately — Business Brand layered in only once the Topic Brand is established.**
 
-||Topic Brand|Business Brand|
-|---|---|---|
-|What it's known for|A subject, a lens, a voice on a specific problem|A place to transact|
-|What it asks for|Attention, resonance, recognition|Money, commitment|
-|How trust is built|Consistency, relevance, being right repeatedly|Delivery on paid promises|
-|Where it sits now|**Active — Season 2 is still primarily this**|Deferred to Module 3+|
+| Type of Brand       |Topic Brand|Business Brand|
+|---|---|---| 
+| What it's known for |A subject, a lens, a voice on a specific problem|A place to transact|
+| What it asks for    |Attention, resonance, recognition|Money, commitment|
+| How trust is built  |Consistency, relevance, being right repeatedly|Delivery on paid promises|
+| Where it sits now   |**Active — Season 2 is still primarily this**|Deferred to Module 3+|
 
 **Why this sequencing is a positioning decision, not just planning:** a Business Brand introduced before the Topic Brand is established has nothing to convert — this is the direct structural cause of Conversion Costume. The architecture has to model the method.
 
