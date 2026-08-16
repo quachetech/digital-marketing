@@ -361,3 +361,144 @@ Four positioning-level messages; every piece of content should ladder up to at l
 ---
 
 _End of Module 1. Modules 2–8 (Goals, Product Validation, Content Strategy, Content Planning & Production, Community Strategy, Systems/Funnels/Backend, Monitoring & Evaluation) build forward from this document._
+
+---
+
+# IGNITED — Module 2: Goals & Signal-Gated Targets
+
+## Quaché Digital — Season 2
+
+_Status: Finalized structure. Numeric thresholds intentionally deferred until a real Season 2 baseline exists — see Part F._
+
+---
+
+## Part A — Goal Hierarchy: Outcome & Process
+
+### The Governing Distinction
+
+**Outcome goals** — what the strategy is trying to produce. Partly outside direct control (audience behavior, algorithm distribution, timing). Measure whether the _method_ is working.
+
+**Process goals** — what actually gets done, on a defined cadence, regardless of outcome that week. Fully within control. Measure whether the _inputs_ are being executed with the discipline the method requires.
+
+A strategy is genuinely healthy only when both are being met. Strong outcomes with weak process are probably luck, not signal — hard to repeat or teach. Strong process with weak outcomes is real, valuable diagnostic data (this is exactly Season 1's actual result: 30/30 days posted, format lock never broken — strong process — against 9 followers and 1–7% completion — weak outcome). Weak process with weak outcomes means the method hasn't actually been tested yet, no matter what the numbers say.
+
+### Outcome Goals
+
+**North Star: Rate of Stage 5 conversion** (Cold Stranger → Repeat/Loyal Follower, per the Phase 1 v2 internal funnel) within a defined window. This measures whether the positioning-first method is working, not just whether the account is growing.
+
+_Why not follower count alone:_ Season 1 proved follower count is a weak signal in isolation — 9 followers with near-zero completion tells you almost nothing usable. A smaller number of people who complete, save, and return is stronger validation than a larger number who bounce.
+
+_Why not sales:_ Per Season 2's own sequencing (Topic Brand before Business Brand, Module 1 Part G), a sales-based North Star would be premature and would pressure the strategy into skipping steps it shouldn't skip.
+
+|Phase|Currency|Outcome goal (directional)|
+|---|---|---|
+|Phase 1 — Awareness|Attention|Grow the Prospect Pool while proving the Stage 1→5 internal funnel actually converts, not just accumulates|
+|Phase 2 — Visibility|Trust|Convert a meaningful share of Stage 5 Prospects into Leads (email list)|
+|Phase 3 — Sales|Money|Convert Leads into buyers of the Module 3 product|
+
+### Process Goals
+
+Mapped directly onto the USP method (Module 1, Part B) — since the method _is_ the process being tested, process goals are literally "was each step of the method executed, consistently."
+
+|USP Step|Process goal|
+|---|---|
+|**Diagnose**|Every piece of content is checkable against a named costume-moment (per the Tino profile) before it's written — not written first and labeled after|
+|**Position**|Comment-mining and language research continues on a defined weekly cadence, specifically targeting the Saturation-costume language gap already flagged (Module 1, Part E)|
+|**Architect**|Every piece of content is tagged by TOFU/MOFU/BOFU funnel stage at time of production, per the existing Phase 1 v2 discipline|
+|**Architect (extended)**|A content bank inventory is maintained at all times, with a minimum buffer (e.g. always at least 5–7 days of production-ready content ahead of the posting schedule) — production happens in batches, ahead of need, not reactively|
+|**Test**|The documentation-trail log is updated on a defined cadence, not retroactively reconstructed|
+|**Document & Revise**|Hypotheses are logged before data exists to bias them, and corrected on the record when data disagrees — the exact discipline demonstrated in Season 1's Open Hypotheses log|
+
+**Cadence process goals** (the "did I show up" layer underneath all five):
+
+- Posting cadence held consistently at the 1x/day floor (Part C)
+- Weekly checkpoint review completed on schedule
+
+**Why this matters for Module 8:** this split changes what the eventual monitoring framework needs to check for — not just "did the outcome hit target" but "did the outcome miss because of a process failure, or in spite of a clean process." Season 1's close-out report already modeled this instinct (separating "the distribution mechanism worked" from "the growth outcome didn't") without naming it explicitly. Process/outcome goals formalize that instinct as a standing structure.
+
+---
+
+## Part B — Signal-Gated Phase Structure
+
+Signal-gated, not calendar-gated — carried forward from the Season 1 v2 correction. Outcome and process signals are checked as separate columns, so a phase transition cannot happen on outcome alone without process also being honestly assessed.
+
+### Phase 1 → Phase 2 Transition: Signal Cluster
+
+|Signal|Type|Threshold|
+|---|---|---|
+|Stage 5 conversion rate (North Star)|Outcome|TBD — set once a Season 2 baseline exists (Part F)|
+|Watch rate / completion|Outcome|Meaningfully above Season 1's 1–7% baseline, sustained across multiple posts, not a single spike|
+|FYP niche alignment|Outcome|90%+ sustained over 2 weeks (carried forward — the one Season 1 signal that worked cleanly)|
+|Every post costume-tagged pre-production|Process|100% — binary, no partial credit|
+|Documentation-trail updated on schedule|Process|100% adherence to the set cadence|
+|Weekly comment-mining/language research completed|Process|Completed every week, specifically targeting the Saturation-costume gap|
+|Hypotheses logged before, not after, outcome data|Process|Checked qualitatively at each weekly review|
+|Content bank inventory maintained|Process|Buffer never drops below the defined minimum|
+
+**Rule:** all signals in a category move together, not individually. A phase transition should not happen on strong outcome signals alone if process signals are weak — if outcomes look good but the tagging/documentation discipline slipped, that's a flag to investigate _why_ before trusting the outcome as proof the method works (it may be a lucky seed-pool draw, per Season 1's Vietnam/Mozambique volatility lesson, not the method).
+
+### Phase 2 → Phase 3 Transition: Signal Cluster (shape only, thresholds TBD)
+
+Same paired structure — outcome signals (Lead conversion rate, list growth pace) alongside process signals (lead magnet delivery consistency, nurture-sequence adherence), plus the Social Proof Requirement (Part G).
+
+---
+
+## Part C — Posting Cadence & Frequency-as-Variable
+
+**Minimum threshold:** 1 post/day, non-negotiable floor. Below this, the Prospect Pool isn't fed consistently enough for the algorithm to keep profiling.
+
+**Frequency as an open experiment, not a fixed decision:** rather than resolving 1x vs. 2x/day upfront, Season 2 treats posting frequency itself as a testable variable. A deliberate frequency test (1x/day sustained vs. 2x/day sustained, same content quality, same tagging discipline) becomes its own logged experiment later, once a clean baseline exists — not a permanent commitment made now.
+
+**Why this sequencing is correct, not a compromise:** locking 1x/day now gives Season 2 a clean initial baseline (fewer simultaneous variables against the niche/format reset), while explicitly planning a frequency test _later_ means the eventual 1x-vs-2x comparison is actually interpretable — tested against a known baseline rather than blended into a reset from day one.
+
+---
+
+## Part D — Content Bank & Production Discipline
+
+An empty content bank is a direct, predictable cause of a missed posting day, which would silently break the 1x/day floor and contaminate the very frequency data Season 2 is trying to collect. Content-bank inventory is therefore a first-class process signal (see Part A), not background housekeeping — checked at every weekly review alongside the other process goals.
+
+---
+
+## Part E — Data Tracking Structure (Cadence & Time-Slot Granularity)
+
+Extends the existing Season 1 documentation-trail format with new granularity:
+
+|Layer|What it captures|Why it matters|
+|---|---|---|
+|**Posts-per-day count**|How many posts went out that day, and at which logged time slot(s)|Makes frequency itself a checkable variable, not an assumption|
+|**Per-post metrics**|Unchanged from Season 1's structure (views, completion, engagement, geography, demographics)|Already proven useful — carried forward as-is|
+|**Grouped daily metrics**|Per-post metrics rolled up to a daily total/average, one level more granular than Season 1's weekly aggregates|Lets day-level patterns surface before waiting a full week|
+|**Per-time-slot comparison** (new)|Every post tagged by time slot; geography, demographics, and engagement compared _across slots_, not just across days|Directly tests whether posting time drives the geography pattern, not just whether it exists|
+
+**Time-slot tagging convention:** each post logged with a `slot` field (e.g. `11PM–12AM`, `11AM–12PM`) alongside existing pillar/sub-topic/funnel-stage tags, making slot comparison a simple filter on existing data rather than a separate tracking system.
+
+**Direct connection to the open geography question:** this structure is what finally allows a real comparative test of whether the Vietnam/Mozambique timezone-displacement pattern from Season 1 is specific to the 11PM–12AM slot, or would recur under a genuinely different daypart. Neither Account 1 nor Season 1 ever tested a truly different time slot (Season 1 only shifted by one hour, 11PM vs. midnight) — a daypart like late morning is the first real chance to isolate the mechanism.
+
+---
+
+## Part F — Baseline Collection Plan
+
+Rather than setting hard numeric thresholds now (which would repeat Season 1's original mistake — targets built on zero real data), Module 2 closes with a defined point at which numbers get set. This is a process discipline, not a gap.
+
+**Baseline window:** the first stretch of Season 2 posting (niche-narrowed, format-shifted, content-clustered, 1x/day floor) runs as a pure data-collection period. No phase-transition decision is made until this window produces a genuine picture — applying Season 1's own lesson that per-post snapshots were unreliable and weekly aggregates were needed before real patterns became visible.
+
+**What "enough data" means:** not a fixed day count, but enough posts and at least 2–3 comparable weekly aggregates to distinguish a real pattern from volatility — directly applying the lesson that single data points and even single weeks were repeatedly wrong in Season 1; the true center only became visible at full-cycle volume.
+
+**What gets locked once the baseline exists:**
+
+- Final numeric thresholds for Part B's Phase 1→2 signal cluster
+- A confirmed reading on whether the niche/format/clustering reset produced a meaningfully different completion-rate baseline than Season 1's 1–7%
+- A first real answer on whether the chosen posting slot reproduces Season 1's geography pattern
+
+---
+
+## Part G — Phase 3 Gate
+
+The **Social Proof Requirement** remains in force: Phase 3 does not open on subscriber count alone. Real testimonials, results, or visible Phase 2 community activity must exist first — directly answering the "oversell, underdeliver" pattern confirmed across the research log. Revenue math (specific sales targets, pricing) stays deferred to Module 3, where the product gets defined against the Transformation Map (Module 1, Part B) rather than invented in isolation.
+
+---
+
+_End of Module 2. Module 3 (Product Validation) builds the actual lead magnet and offer against the Transformation Map and the goals defined here._
+
+---
+
