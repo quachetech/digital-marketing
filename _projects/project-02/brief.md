@@ -840,9 +840,82 @@ Community, at this stage, is correctly scoped as a relational quality (recogniti
 
 ---
 
-
 # IGNITED — Module 7: Systems, Funnels & Backend
 
 ## Quaché Digital — Season 2
 
-_Status: In progress._
+_Status: Finalized. This module defines the complete, phase-independent system backbone the business runs on — distinct from the phase-gated functional components that flow through it once triggered. The governing principle: the system does not need the products; the products need the system._
+
+---
+
+## Part A — The Complete System, As a Standing Structure
+
+**Governing principle:** the system does not need the products; the products need the system. Infrastructure is built ahead of need, continuously, regardless of which phase is currently active — so that when a phase's functional requirement arrives, the only thing missing is the content that flows through an already-working pipe, not the pipe itself.
+
+This directly mitigates the solo-capacity Weakness named in the SWOT (Module 1, Part C) — building infrastructure reactively, under time pressure, exactly when a phase gate triggers, is the scenario most likely to produce rushed, poorly-built backend work. Building it ahead of need, in the slack time Phase 1 currently provides, is the correct use of that time.
+
+### The Three Layers of the System
+
+|Layer|What it is|Phase-dependency|
+|---|---|---|
+|**Infrastructure Layer**|The permanent, foundational backbone — domain, professional email, hosting, payment processing, design tooling, content workflow, tracking|Phase-independent — built continuously, starting now|
+|**Platform Layer**|The specific tools/software chosen to run the infrastructure|Phase-independent in _need_, but subject to ongoing testing/validation (Part C)|
+|**Functional Layer**|Nurture sequences, lead-magnet delivery, purchase follow-up, community onboarding|Phase-gated — named and structurally reserved now, built and activated only when its trigger condition exists|
+
+---
+
+## Part B — Infrastructure Layer (Build Now, Continuously)
+
+Stated as required _categories_, with current best-guess platform choices named as working assumptions, not locked commitments.
+
+|Infrastructure component|Role in the system|Working platform assumption|Status|
+|---|---|---|---|
+|**Domain**|The permanent, owned web address anchoring everything else — email, website, link-in-bio|TBD (registrar choice not yet locked)|Build now|
+|**Professional email**|Tied to the domain; the credible, owned communication channel distinct from a personal inbox|Dependent on domain registration|Build now|
+|**Hosting platform (site + funnel host)**|Where the website, link-in-bio page, and eventual funnel pages live|Named candidate: a Systeme.io-style all-in-one platform|Build now, platform choice open to testing|
+|**Payment processing**|The mechanism that actually collects money once Phase 3 opens — infrastructure, not functional, because it must exist and be tested before a sale is ever attempted, not built reactively when the first buyer arrives|TBD (candidate: whatever gateway integrates natively with the chosen hosting platform, e.g. Stripe via Systeme.io)|Build now, well ahead of Phase 3 — verified working (a real test transaction) before it is ever relied upon live|
+|**Design tooling**|Where all visual assets (ebooks, slide decks, link-in-bio graphics, carousels) are produced|Canva (currently free tier; explicit intent to move to Canva Pro as the business justifies the cost)|Already in use — formalized here as a standing system component|
+|**Content-production workflow**|The tools/process used to actually generate and refine content|Currently Claude AI, explicitly named as one component of an evolving workflow, not a fixed final stack|Already in use — formalized, expected to expand over time|
+|**Tracking/analytics**|Cross-platform performance tracking, beyond what a single platform's native analytics shows|Named candidates: a tool in the Metricool/Buffer-analytics family|Not yet built — flagged as needed, platform TBD|
+
+**Governing rule for this layer:** every component above gets built or formalized during Phase 1's current slack, not deferred until a functional need forces it. This table is itself the checklist Module 8's monitoring should audit against — "is infrastructure complete" is a real, binary-checkable process question, separate from any content or product metric.
+
+**Why payment processing belongs here and not in Part D:** it is tempting to treat it as a Phase 3 item, since it has no purpose until there's something to sell. But per this module's own governing principle, the test for infrastructure vs. functional isn't "when is it used" — it's "does it need a product to exist before it can be built and verified." A payment gateway can be fully installed and test-transacted with zero products live. That makes it infrastructure, and building it now (rather than at the moment Phase 3 opens) removes a real point of last-minute risk from the one phase transition that involves real money changing hands.
+
+---
+
+## Part C — Platform Layer: The Testing Discipline
+
+**Platform selection at every layer above is itself subject to the same test-and-revise discipline as content and posting cadence.** Naming Systeme.io, Stripe, or a Metricool-family tool now are working assumptions, not locked commitments — if a chosen platform proves wrong once real usage begins, replacing it is a legitimate, expected part of the process, not a strategy failure. Platform changes should be logged in the documentation trail the same way a posting-time hypothesis would be, consistent with Document & Revise (Module 1, Part B).
+
+---
+
+## Part D — Functional Layer: Named, Structurally Reserved, Phase-Gated
+
+The actual funnel mechanics — not built yet, but not forgotten, each tied to its real trigger condition rather than a calendar date, consistent with Module 2's signal-gating discipline throughout.
+
+|Functional component|What it does|Trigger condition|
+|---|---|---|
+|**Lead magnet delivery mechanism**|Delivers the Costume Diagnostic (Module 3, Tier 1) to someone who requests it|Phase 2 opens (Module 2, Part B signal cluster met)|
+|**Post-lead-magnet nurture sequence**|The email sequence following diagnostic delivery, building toward eventual product awareness|Same as above — exists on paper the moment the delivery mechanism is built, activates in practice once Phase 2 is live|
+|**Post-purchase nurture sequence**|Follows a Tier 2 (AB Gap Starter Kit) purchase|Phase 3 opens (Module 2, Part G — Social Proof Requirement met)|
+|**Community/Threshold Room onboarding sequence**|Onboards a new member into Tier 3 once it activates|Module 3/6's Tier 3 launch conditions (Social Proof + brand's own Conversion Costume closed + capacity confirmed)|
+
+**Why naming these now matters, even unbuilt:** it means when a trigger condition is met, the response is "activate the already-designed sequence," not "now let's figure out what a nurture sequence should even contain." The thinking happens in Phase 1's slack time; the _building_ happens once the specific trigger is real enough to build against actual, not hypothetical, content.
+
+---
+
+## Part E — Mapping to Module 2's Phases
+
+|Module 2 Phase|Infrastructure required (already built by this point)|Functional layer activated|
+|---|---|---|
+|Phase 1 — Awareness (current)|Full Infrastructure Layer (Part B), including payment processing, should be complete|None yet — this is exactly the slack window Part B's components get built in|
+|Phase 2 — Visibility|Infrastructure Layer, confirmed stable|Lead magnet delivery + nurture sequence|
+|Phase 3 — Sales|Same|Post-purchase nurture sequence — payment processing already built and tested well in advance|
+|Tier 3 / Threshold Room|Same, plus whatever live-call/community-hosting tool gets chosen|Community onboarding sequence|
+
+---
+
+## Module 7 — Summary
+
+The system is defined as phase-independent infrastructure (domain, email, hosting, payment processing, design and content tooling, tracking) that gets built continuously during Phase 1's slack time, regardless of which phase is currently active — distinct from the phase-gated functional layer (nurture sequences, delivery mechanisms) that is named and structurally reserved now but only built and activated once its real trigger condition is met. Platform choices at every layer are explicitly working assumptions, subject to the same test-and-revise discipline as the rest of Season 2. Payment processing is deliberately classified as infrastructure, not a Phase 3 dependency, closing a real gap that would otherwise have introduced last-minute risk at the one phase transition involving real money.
