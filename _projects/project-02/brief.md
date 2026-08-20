@@ -956,3 +956,77 @@ The system is defined as phase-independent infrastructure that gets built contin
 ---
 
 ---
+
+# IGNITED — Module 5: Content Planning & Production
+
+## Etaphi — Season 2
+
+_Status: In progress. This module translates the strategy-layer principles (Modules 1, 2, 4, 6, 7) into concrete, testable decisions — the first module where specific choices, not just governing principles, are made._
+
+---
+
+## Part A — Campaigns as Data Labs
+
+**Definition:** a campaign is a time-boxed test of one specific, named variable, run against a defined control, producing a documented conclusion that either graduates a tactic into default practice or retires it.
+
+**The critical distinction from Phase-level gating:** Phase 1 remains open-ended and signal-gated exactly as Module 2, Part B defines it — it ends when a real threshold is met, however long that takes. Campaigns are a different kind of boundary entirely: they are deliberately time-boxed, because a bounded window is what makes clean comparison possible. This is not a contradiction of Module 2's signal-gating philosophy — it is applying the correct boundary type to the correct object. Phases answer "is the method working overall?"; campaigns answer "does this specific variable make a measurable difference?" Campaigns are the mechanism by which Phase 1 gets filled with tested, evidence-backed decisions rather than untested assumptions — a campaign concluding does not end the phase, it graduates one more piece of the strategy from hypothesis to default.
+
+**The campaign brief structure — every campaign must define all six fields before it starts:**
+
+|Field|What it captures|
+|---|---|
+|**Hypothesis**|The specific, falsifiable claim being tested|
+|**Variable(s) under test**|The thing(s) genuinely unknown and being learned — distinct from locked, already-decided implementation choices, which are constants, not variables|
+|**Locked constants**|Everything else, explicitly listed, so results aren't confounded|
+|**Duration cap**|15–30 days maximum, set in advance, not extended mid-campaign to chase a result|
+|**Success signal**|The specific, pre-defined read that would count as the hypothesis holding — or, where genuine baseline data doesn't yet exist to set a number against (per Module 2, Part F), an explicit statement that the campaign's output _is_ the baseline, with comparison made within the resulting data rather than against a number decided in advance|
+|**Graduation rule**|What happens if a tactic wins (becomes default) vs. loses (retired, logged, not repeated without new evidence)|
+
+**The one-variable rule, precisely defined:** a campaign isolates exactly one _genuine_ variable — something the outcome of which is actually unknown. Decisions already locked elsewhere in the strategy (format, content style, clustering structure, niche positioning) are constants within a campaign, not variables, even if they are new relative to Season 1. Testing "does the new content approach work" and "does time slot matter" are not the same experiment; only the latter is a live variable once the former has already been decided and committed to. This distinction — rather than a rule against changing multiple things at once — is what keeps campaign design honest and prevents Season 1's Format Scatter mistake (simultaneous, untracked, unattributable changes) from recurring under a different name.
+
+**Where campaigns get their material:** any item left explicitly open ("TBD," "tested later") across Modules 2, 4, 6, and 7 is a ready-made campaign candidate. The campaign queue (Part B) is built directly from this backlog rather than invented fresh.
+
+---
+
+## Part B — The Current Campaign Queue
+
+|Candidate campaign|Genuine variable|Source|Status|
+|---|---|---|---|
+|Reset Baseline & Time-Slot Comparison|Posting time slot (11PM–12AM vs. 11AM–12PM)|Module 2, Part E|**Active — see Part C**|
+|Posting frequency|1x/day vs. 2x/day|Module 2, Part C|Queued — cannot run until a frequency baseline exists from Campaign 1|
+|Track ratification (Build Log full cadence)|Whether a sustained, ongoing serialized format produces Stage 5 conversion, beyond its 3 bookend touchpoints|Module 4, Part C|Queued — Build Log is deliberately held to Intro/Launch/Close only during Campaign 1 to avoid contaminating its data|
+|Content density variations|Further length/format testing within the TOFU video format|Module 4, Part B, Principle 5|Not yet queued — density itself is currently a locked constant (see Campaign 1), open to becoming a genuine variable in a later campaign once a clean baseline exists to test against|
+
+---
+
+## Part C — Campaign 1: Reset Baseline & Time-Slot Comparison
+
+**Umbrella hypothesis:** Season 2's locked content changes (clearer positioning, TOFU-style density, costume clustering) will produce measurably better completion, retention, and engagement signals than Season 1's baseline, even if raw distribution volume/geography stays similar to v1 — and comparing two fixed time slots at identical frequency will reveal whether posting time independently affects distribution and audience quality.
+
+**Governing note on scope:** the content format shift (carousel → video), TOFU density, and costume clustering are **locked implementation decisions, not variables under test** — they were decided elsewhere in the strategy (Module 4) and are held constant throughout this entire campaign. The only genuine variable under test across the two sub-campaigns below is **time slot**. Frequency is held fixed at the Module 2, Part C floor (1x/day) throughout, deliberately deferring the frequency question to a later, separate campaign once a clean slot comparison exists to build on.
+
+### Sub-Campaign 1A — Slot: 11PM–12AM (Days 1–15)
+
+|Field|Content|
+|---|---|
+|**Purpose**|Establish the Season 2 baseline under the _same slot Season 1 used_, isolating the content-change effect before slot itself becomes the variable in 1B|
+|**Locked constants**|Time slot (11PM–12AM, identical to Season 1), frequency (1x/day), format (single-topic TOFU video), content (costume-clustered), positioning|
+|**Duration**|15 days|
+|**Signals tracked**|Views, completion rate, retention rate, likes/saves/shares/comments, profile views, follows, geography, demographics (age/gender), traffic source, viewer type (new vs. returning)|
+|**What a positive read looks like**|Completion and retention improve over Season 1's 1–7% baseline, even if geography/distribution resembles v1 — this would isolate the content changes as the cause, since the distribution mechanism (slot, and therefore audience-seeding pattern) is held identical to Season 1|
+
+### Sub-Campaign 1B — Slot: 11AM–12PM (Days 16–30)
+
+|Field|Content|
+|---|---|
+|**Variable under test**|**Time slot** — the one genuine variable in this campaign, isolated now that 1A has established what "same slot, new content" produces|
+|**Locked constants**|Identical to 1A in every respect except the slot — frequency, format, content, and positioning unchanged|
+|**Duration**|15 days|
+|**Signals tracked**|Identical signal set to 1A, enabling direct comparison|
+|**What a positive read looks like**|Not a fixed threshold — the comparison itself is the result. Does geography shift from the Vietnam/Mozambique pattern? Does completion/retention differ from 1A? Does traffic source or viewer-type composition change?|
+
+### Comparison & Graduation
+
+At Day 30, 1A and 1B are compared directly. Whichever slot shows the stronger completion/retention/engagement/click-through profile becomes the default posting slot going forward (per Part A's graduation rule); the other is logged, not repeated without new evidence.
+
+**Acknowledged methodological limitation, held consciously rather than glossed over:** because 1A and 1B run sequentially rather than concurrently, any account-level change over time (accumulating Creator Fingerprint data, algorithm maturity, seasonal shifts) could confound a clean slot-vs-slot comparison. This is a real limitation, not resolvable without concurrent testing across two separate accounts, which isn't practical here. The comparison is the best available given real constraints, not a laboratory-clean one — and should be read and reported that way, not overstated as fully isolated.
