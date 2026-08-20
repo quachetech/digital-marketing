@@ -1,7 +1,6 @@
 # IGNITED v2 Brand Strategy
 
-Brief: Describe what this is and what it's supposed to achieve and what it's answering.
-# # IGNITED — Module 1: Brand Positioning
+# IGNITED — Module 1: Brand Positioning
 
 ## Etaphi — Season 2
 
@@ -1030,3 +1029,53 @@ _Status: In progress. This module translates the strategy-layer principles (Modu
 At Day 30, 1A and 1B are compared directly. Whichever slot shows the stronger completion/retention/engagement/click-through profile becomes the default posting slot going forward (per Part A's graduation rule); the other is logged, not repeated without new evidence.
 
 **Acknowledged methodological limitation, held consciously rather than glossed over:** because 1A and 1B run sequentially rather than concurrently, any account-level change over time (accumulating Creator Fingerprint data, algorithm maturity, seasonal shifts) could confound a clean slot-vs-slot comparison. This is a real limitation, not resolvable without concurrent testing across two separate accounts, which isn't practical here. The comparison is the best available given real constraints, not a laboratory-clean one — and should be read and reported that way, not overstated as fully isolated.
+
+# IGNITED — Module 8: Monitoring & Evaluation
+
+## Etaphi — Season 2
+
+_Status: Finalized. Module 8 introduces no new metrics or judgment criteria — every signal it monitors was already defined elsewhere. Its job is exclusively the rhythm of checking and the feedback logic connecting a review's findings back to the modules above it._
+
+---
+
+## Part A — What Module 8 Actually Is
+
+**Governing principle:** Module 8 does not introduce new metrics or new judgment criteria. Every signal, threshold, and process goal it monitors was already defined elsewhere — Module 2's outcome/process goals and signal clusters, Module 5's campaign success signals, Module 7's infrastructure checklist. Module 8's job is exclusively to define the rhythm and structure of checking — when review happens, what gets reviewed at each cadence, and how a review's findings feed back into the modules above it.
+
+This mirrors what Season 1's documentation trail already proved worked in practice — Weekly Checkpoints, the Open Hypotheses log, the Trends Synthesis review — Module 8 formalizes that proven practice as a standing system rather than something reconstructed each time.
+
+---
+
+## Part B — Review Cadence Structure
+
+|Cadence|What gets reviewed|Source of what's checked|
+|---|---|---|
+|**Daily**|Content bank buffer level; whether the day's post went out; basic per-post metrics logged|Module 2, Part D (buffer); Module 5's per-campaign signal list|
+|**Weekly**|Rolled-up outcome and process goals; campaign progress against its duration cap; any Open Hypotheses needing a status update|Module 2, Part A (outcome/process goals); Module 5, Part C (campaign signals)|
+|**Campaign close** (15–30 days, per campaign)|Full campaign comparison and graduation decision|Module 5, Part A (graduation rule)|
+|**Phase signal review** (as-needed, not fixed)|Whether the Module 2, Part B signal cluster has actually been met|Module 2, Part B|
+|**Infrastructure audit** (ahead of each phase transition)|Module 7's Front-End/Backend checklists, confirmed complete before the relevant phase opens|Module 7, Parts B.1/B.2|
+
+**Why this table matters as a structure, not just a schedule:** no single review moment is overloaded with every kind of judgment at once. A daily check is purely operational (did the machine run today); a weekly check is diagnostic (is the method producing movement); a campaign close is a real decision point (graduate or retire); a phase review is the highest-stakes check (does reality match the signal cluster). Collapsing these into one undifferentiated "check the numbers" habit is exactly what this structure prevents.
+
+---
+
+## Part C — The Feedback Loop
+
+|Review finding|What it feeds back into|
+|---|---|
+|A campaign's success signal is clearly met or clearly missed|Module 5, Part A's graduation rule — the tactic becomes default or gets retired and logged|
+|A weekly outcome/process check shows process goals were met but outcomes weren't|Flags a genuine diagnostic question (is the method wrong, or is this normal early volatility) — logged as an Open Hypothesis, not acted on impulsively|
+|A weekly check shows outcomes improved despite weak process|Flag for investigation before trusting the result — strong outcomes with weak process may be luck, not signal (Module 2, Part B)|
+|Phase signal cluster is met|Triggers the next phase per Module 2, Part B — including the relevant Module 7 infrastructure audit before anything phase-specific goes live|
+|Infrastructure audit finds a gap|Blocks the phase transition until resolved (Module 7's hard-gate principle for Backend items)|
+
+---
+
+## Part D — Deliberate Scope Boundary
+
+Consistent with the honesty discipline used throughout this document, Module 8 names no dashboard, no software tooling, and no specific report template. Those are execution-layer decisions (which tool renders the weekly report, what the documentation-trail file structure looks like in practice) — Module 8 defines the rhythm and the feedback logic; the mechanics of running it belong to the execution layer built on top of this strategy.
+
+---
+
+_End of Module 8. All eight strategic modules are now complete. The execution layer — infrastructure setup, SOPs, work schedule, and content production/publication workflows — is the next layer of work, built on top of this completed strategy rather than as part of it._
