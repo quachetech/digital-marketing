@@ -1,11 +1,13 @@
 # IGNITED v2 Brand Strategy
 
 Brief: Describe what this is and what it's supposed to achieve and what it's answering.
-# IGNITED — Module 1: Brand Positioning
+# # IGNITED — Module 1: Brand Positioning
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized draft. Positioning is upstream of all other modules — Modules 2–8 build on this document._
+
+**Naming note (Season 2 rename, logged per Document & Revise):** the brand operated as "Quaché Digital" through Season 1. Season 2 renames it to **Etaphi** — derived from the Greek letters Eta (η) and Phi (φ), and chosen to rhyme with "edify." Phi carries a deliberate resonance with the golden ratio, a mathematical constant describing proportional growth — a fitting hidden layer for a brand explicitly positioned as data-driven brand growth science. Eta carries a secondary resonance with efficiency/effect-size notation in physics and statistics, thematically aligned with the brand's measurement-driven identity. The name is used with no descriptor by deliberate choice (an Apple-style curiosity mechanic — an unexplained name creates its own hook), with explanatory context carried instead by platform-level bio/header text, not the name itself. This also resolves a tension the brand named in its own content strategy work — a name derived from the founder's own identity sat slightly at odds with the stated value that "the brand is not about me, it's about what's being built"; an abstract, conceptual name is a stronger enactment of the Topic Brand architecture (Part G) than a personal name. The tradeoff, held consciously: the name carries zero explanatory weight on its own, which raises the burden on Module 4's hook/payoff principles (Principles 4–5) to do that work in every piece of Stage 1–2 content.
 
 ---
 
@@ -131,7 +133,7 @@ _Module 3 (Product Validation) and Module 7 (Systems/Funnels) should map the lea
 |Expensive coaches/agencies|✓|✓ (templated once signed)|✓ (generic execution)|Partial|✗ (retrospective only)|
 |AI brand-tools|✓|✓|✓|✗ (no real stake)|✗ (nothing to document)|
 |Established solopreneur creators|✓|✓|✓|✓ (historical)|✗ (written after the win)|
-|**Quaché Digital, Season 2**|✓|✓|✓|✓ Live, ongoing|✓ Public, including corrections|
+|**Etaphi, Season 2**|✓|✓|✓|✓ Live, ongoing|✓ Public, including corrections|
 
 **The white space:** nobody else has a full column. The closest competitors (agencies, established creators) are strong on the first four steps but structurally cannot Document the way this brand can — their business models require looking finished, not in-progress.
 
@@ -181,17 +183,17 @@ Three load-bearing words:
 
 ### The AB Gap — Full Framework (Formalized)
 
-_(This section formalizes the AB Gap as Quaché Digital's central, generalized model. It was previously implicit inside Tino's profile and Module 1's earlier references — this is its proper, complete home. Everything elsewhere in this document that references the AB Gap should be read against this definition.)_
+_(This section formalizes the AB Gap as Etaphi's central, generalized model. It was previously implicit inside Tino's profile and Module 1's earlier references — this is its proper, complete home. Everything elsewhere in this document that references the AB Gap should be read against this definition.)_
 
 **Core definition:** The AB Gap is the unbridged space between **A** (the current state of unresolved pain points) and **B** (the desired state of clear transformation). This is a generalized, parameterized model — any brand, including this one, can plug in its own A, its own B, and the specific shape of the Gap between them, and use the same structure to self-diagnose.
 
 **The Recursive Property (structurally significant):** A brand's own unresolved AB Gap creates an AB Gap for its own clients. This is not a metaphor — it is a direct, load-bearing constraint on what this brand is allowed to sell or teach at any given time.
 
-Applied concretely: Quaché Digital's own Conversion Costume — real reach and engagement, with no proven sales funnel yet — is the brand's own unresolved AB Gap. Per the Recursive Property, this means the brand cannot yet honestly sell or teach a "how to convert" product, because that gap hasn't been closed in the brand's own practice. Doing so would repeat the exact "Sold the Outcome" pattern this brand is positioned against, only inverted — teaching a transformation not yet demonstrated in-house.
+Applied concretely: Etaphi's own Conversion Costume — real reach and engagement, with no proven sales funnel yet — is the brand's own unresolved AB Gap. Per the Recursive Property, this means the brand cannot yet honestly sell or teach a "how to convert" product, because that gap hasn't been closed in the brand's own practice. Doing so would repeat the exact "Sold the Outcome" pattern this brand is positioned against, only inverted — teaching a transformation not yet demonstrated in-house.
 
 **Direct governing rule, downstream of this property:** no product, piece of content, or claim should promise resolution of a costume the brand has not itself closed. This is the specific mechanism behind Module 3's product-tier boundaries (Part D–F) — Tiers 1 and 2 stay strictly inside Confusion Costume territory, and Conversion-Costume-resolving products are correctly gated to Tier 3, pending the brand's own proof.
 
-**Self-diagnosis as a standing practice:** because the model is parameterized, Quaché Digital should periodically run its own AB Gap diagnostic (per the Costume Diagnostic's own logic, Module 3) as an internal check — not just apply it to Tino. This keeps the Recursive Property from becoming a one-time insight and makes it an ongoing discipline, consistent with the Document & Revise value (Part J).
+**Self-diagnosis as a standing practice:** because the model is parameterized, Etaphi should periodically run its own AB Gap diagnostic (per the Costume Diagnostic's own logic, Module 3) as an internal check — not just apply it to Tino. This keeps the Recursive Property from becoming a one-time insight and makes it an ongoing discipline, consistent with the Document & Revise value (Part J).
 
 A draining job, ~90 minutes of real energy left after it. She opens her content app to plan or post and hits one of three recurring internal stalls — not laziness, not lack of discipline, but a positioning problem consistently misdiagnosed as a character flaw.
 
@@ -380,7 +382,7 @@ _End of Module 1. Modules 2–8 (Goals, Product Validation, Content Strategy, Co
 
 # IGNITED — Module 2: Goals & Signal-Gated Targets
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized structure. Numeric thresholds intentionally deferred until a real Season 2 baseline exists — see Part F._
 
@@ -510,6 +512,8 @@ Rather than setting hard numeric thresholds now (which would repeat Season 1's o
 
 The **Social Proof Requirement** remains in force: Phase 3 does not open on subscriber count alone. Real testimonials, results, or visible Phase 2 community activity must exist first — directly answering the "oversell, underdeliver" pattern confirmed across the research log. Revenue math (specific sales targets, pricing) stays deferred to Module 3, where the product gets defined against the Transformation Map (Module 1, Part B) rather than invented in isolation.
 
+**Disclosed real-world dependency (logged, not a deadline):** Phase 3's gate also depends on a genuine external constraint — a registered business entity and functioning payment infrastructure, neither of which currently exist. Given current financial and logistical circumstances, resolving this realistically requires an estimated 5–6 months (savings toward entity registration and setup costs, alongside an existing full-time commitment that cannot be paused). This is disclosed here as honest context for pacing expectations, not as a new fixed deadline layered on top of the signal-gated design — the actual gate remains "Backend infrastructure confirmed functional" (Module 7, Part B.2), exactly as defined. What this dependency does clarify: Phase 1 and the early portion of Phase 2 (list-building via a lead magnet, which requires no payment processing — only Backend's non-financial components, e.g. Terms & Conditions for data collection, a basic CRM) can proceed on their own signal-gated timeline regardless of this constraint. Only the final step into Phase 3 is genuinely blocked by it. This should be read as realistic groundwork for Modules 5 and 8's planning, not a revision to the strategy itself.
+
 ---
 
 _End of Module 2. Module 3 (Product Validation) builds the actual lead magnet and offer against the Transformation Map and the goals defined here._
@@ -520,7 +524,7 @@ _End of Module 2. Module 3 (Product Validation) builds the actual lead magnet an
 
 # IGNITED — Module 3: Product Validation
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized. Products built from the brand strategy, not retrofitted to it — sourced directly from the USP method, Transformation Map, and Three Costumes._
 
@@ -634,7 +638,7 @@ This produces a natural three-tier structure: two small, immediately buildable p
 **Launch conditions (explicit gate):**
 
 - Module 2's Social Proof Requirement is met
-- Quaché Digital's own Conversion Costume shows real, demonstrated movement (satisfying the Recursive Property)
+- Etaphi's own Conversion Costume shows real, demonstrated movement (satisfying the Recursive Property)
 - A capacity check confirms live delivery is sustainable solo at the likely membership size
 
 **Features (captured now, built later):** monthly/biweekly accountability calls, direct diagnostic support catching minor issues before they compound, live Q&A, real-time training as the method evolves — members watching Document & Revise happen live.
@@ -693,7 +697,7 @@ _End of Module 3. Module 4 (Content Strategy) builds the customer journey and pi
 
 # IGNITED — Module 4: Content Strategy
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized at the strategy layer. This module states principles and jobs-to-be-done — specific formats, tracks, channels, and cadence slotting are planning-layer decisions (Module 5), deliberately deferred._
 
@@ -798,7 +802,7 @@ _End of Module 4. Module 6 (Community Strategy) is built next, followed by Modul
 
 # IGNITED — Module 6: Community Strategy
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized. Community is scoped honestly to what's structurally justified at Topic Brand stage — a formal community platform is deliberately deferred and merged with Module 3's Tier 3, not built separately._
 
@@ -840,9 +844,11 @@ Community, at this stage, is correctly scoped as a relational quality (recogniti
 
 ---
 
+---
+
 # IGNITED — Module 7: Systems, Funnels & Backend
 
-## Quaché Digital — Season 2
+## Etaphi — Season 2
 
 _Status: Finalized. This module defines the complete, phase-independent system backbone the business runs on — distinct from the phase-gated functional components that flow through it once triggered. The governing principle: the system does not need the products; the products need the system._
 
@@ -866,21 +872,48 @@ This directly mitigates the solo-capacity Weakness named in the SWOT (Module 1, 
 
 ## Part B — Infrastructure Layer (Build Now, Continuously)
 
-Stated as required _categories_, with current best-guess platform choices named as working assumptions, not locked commitments.
+The Infrastructure Layer splits into two distinct sections. Both are phase-independent and both should be complete before Phase 3 opens — but they serve different functions and should be tracked separately, since they fail in different ways if neglected. Front-End gaps cause a weak or unprofessional public presence; Backend gaps cause real legal, financial, and reputational exposure the moment a real transaction occurs. **Backend is arguably the more urgent of the two, precisely because its absence is invisible until the exact moment it becomes a crisis — the first paying client, the first dispute, the first tax season.**
+
+### B.1 — Front-End Infrastructure (Marketing)
+
+The public-facing system — everything a prospective Tino or Lead ever sees or interacts with directly.
 
 |Infrastructure component|Role in the system|Working platform assumption|Status|
 |---|---|---|---|
 |**Domain**|The permanent, owned web address anchoring everything else — email, website, link-in-bio|TBD (registrar choice not yet locked)|Build now|
 |**Professional email**|Tied to the domain; the credible, owned communication channel distinct from a personal inbox|Dependent on domain registration|Build now|
 |**Hosting platform (site + funnel host)**|Where the website, link-in-bio page, and eventual funnel pages live|Named candidate: a Systeme.io-style all-in-one platform|Build now, platform choice open to testing|
-|**Payment processing**|The mechanism that actually collects money once Phase 3 opens — infrastructure, not functional, because it must exist and be tested before a sale is ever attempted, not built reactively when the first buyer arrives|TBD (candidate: whatever gateway integrates natively with the chosen hosting platform, e.g. Stripe via Systeme.io)|Build now, well ahead of Phase 3 — verified working (a real test transaction) before it is ever relied upon live|
+|**Payment processing (collection side)**|The mechanism that actually collects money once Phase 3 opens — infrastructure, not functional, because it must exist and be tested before a sale is ever attempted|TBD (candidate: whatever gateway integrates natively with the chosen hosting platform, e.g. Stripe via Systeme.io)|Build now, well ahead of Phase 3 — verified working (a real test transaction) before it is ever relied upon live|
 |**Design tooling**|Where all visual assets (ebooks, slide decks, link-in-bio graphics, carousels) are produced|Canva (currently free tier; explicit intent to move to Canva Pro as the business justifies the cost)|Already in use — formalized here as a standing system component|
 |**Content-production workflow**|The tools/process used to actually generate and refine content|Currently Claude AI, explicitly named as one component of an evolving workflow, not a fixed final stack|Already in use — formalized, expected to expand over time|
 |**Tracking/analytics**|Cross-platform performance tracking, beyond what a single platform's native analytics shows|Named candidates: a tool in the Metricool/Buffer-analytics family|Not yet built — flagged as needed, platform TBD|
 
-**Governing rule for this layer:** every component above gets built or formalized during Phase 1's current slack, not deferred until a functional need forces it. This table is itself the checklist Module 8's monitoring should audit against — "is infrastructure complete" is a real, binary-checkable process question, separate from any content or product metric.
+### B.2 — Backend Infrastructure (Operational & Administrative)
 
-**Why payment processing belongs here and not in Part D:** it is tempting to treat it as a Phase 3 item, since it has no purpose until there's something to sell. But per this module's own governing principle, the test for infrastructure vs. functional isn't "when is it used" — it's "does it need a product to exist before it can be built and verified." A payment gateway can be fully installed and test-transacted with zero products live. That makes it infrastructure, and building it now (rather than at the moment Phase 3 opens) removes a real point of last-minute risk from the one phase transition that involves real money changing hands.
+The private, structural backbone that makes this a legitimate, defensible, functioning business — not visible to Tino directly, but load-bearing the moment any money or personal data changes hands. **Governing rule for this section specifically: no client, member, or buyer is accepted until every item below exists in at least basic, working form.** This is a harder line than the Front-End's "build ahead of need" — it's closer to a genuine gate, since the risk of skipping it (legal exposure, tax complications, no recourse in a dispute) is categorically different from the risk of a rough website.
+
+|Infrastructure component|Role in the system|Working assumption|Status|
+|---|---|---|---|
+|**Invoicing system**|Issuing and tracking payment records for any paid product or service|TBD — likely bundled with the chosen hosting/funnel platform, or a lightweight standalone (e.g. Wave, or invoicing native to Systeme.io)|Build now|
+|**Tax record-keeping**|Tracking income, deductible expenses, and whatever filing obligations apply in the relevant jurisdiction|TBD — a basic spreadsheet ledger is an acceptable starting point; scales to dedicated software later|Build now, at minimum as a disciplined manual ledger|
+|**Contracts / service agreements**|A basic, reusable agreement template for any paid deliverable (Tier 2 sales, and especially the future Tier 3 membership, which involves an ongoing service relationship)|TBD — a template, not necessarily custom legal drafting yet, but reviewed for basic soundness|Build now, in at least draft form|
+|**Terms & Conditions / Privacy Policy**|Governs use of the website, handling of any personal data (especially anything collected via the future lead magnet/email capture), and purchase terms|TBD — a generated or template-based starting version, refined later|Build now, before any lead capture goes live (this is a hard prerequisite for Phase 2, not just a nice-to-have)|
+|**Client/lead management system (CRM, basic)**|Tracking who's a Prospect, who's a Lead, who's purchased, who's a Tier 3 member, and the history of each relationship|TBD — a spreadsheet is a legitimate starting CRM; formal software only once volume justifies it|Build now, at minimum as a structured tracking sheet|
+|**Refund/dispute policy**|A clear, pre-decided stance on refunds and how disputes are handled, so this is never improvised under pressure in the moment|TBD|Build now, in written form|
+|**Basic bookkeeping/expense tracking**|Separating business expenses (Canva Pro, domain, hosting, tools) from personal ones, for both tax purposes and genuine profitability visibility|TBD — a simple ledger, expandable later|Build now|
+
+**The scaling principle for this section, stated explicitly:** none of this needs to be sophisticated at launch. A spreadsheet-based CRM and ledger, a template contract, and a generated Terms page are entirely legitimate starting points — "basic back-office system which scales with time" is the correct standard, not premature over-engineering. What's non-negotiable is that _something_ exists in each category, not that it's polished. The failure mode this section guards against isn't "unprofessional," it's "nonexistent."
+
+**Explicit hard gate, stronger than the rest of Part B:** unlike Front-End items (which should be ready "well before" their phase), no lead is captured (Phase 2) and no product is sold (Phase 3) until Terms & Conditions/Privacy Policy and the invoicing/contract basics are confirmed functional. This is worth flagging as a Module 2 signal-cluster addition — Phase 2's opening should include a Backend Infrastructure Complete checkbox alongside its existing outcome/process signals.
+
+**Disclosed constraint, splitting B.2 into two honest sub-categories:** a registered business entity does not currently exist, and neither does functioning payment infrastructure — resolving both realistically requires an estimated 5–6 months (see Module 2, Part G for full context). Rather than let this stall the entire Backend layer, the items above split cleanly into what's genuinely blocked by that timeline and what isn't:
+
+|Sub-category|Items|Buildable now?|
+|---|---|---|
+|**Entity/payment-dependent**|Invoicing system (formal), payment processing (Front-End B.1), tax record-keeping tied to registered income, contracts requiring a legal entity as a counterparty|No — genuinely waits on entity registration and the ~5–6 month savings/setup timeline|
+|**Independent of entity/payment**|Contract/service-agreement template (draftable now, formalized once an entity exists), Terms & Conditions/Privacy Policy, refund/dispute policy, basic CRM (spreadsheet-based), basic bookkeeping/expense ledger|Yes — build now, in Phase 1's current slack, exactly per this module's governing principle|
+
+This distinction is what makes Phase 2's list-building genuinely achievable on its own signal-gated timeline (Module 2, Part G) — it requires only the independent-category items (T&Cs for any data collected via a lead magnet, a basic CRM to track Leads), not the entity/payment-dependent ones. Only Phase 3 is truly held by the disclosed constraint.
 
 ---
 
@@ -907,15 +940,19 @@ The actual funnel mechanics — not built yet, but not forgotten, each tied to i
 
 ## Part E — Mapping to Module 2's Phases
 
-|Module 2 Phase|Infrastructure required (already built by this point)|Functional layer activated|
-|---|---|---|
-|Phase 1 — Awareness (current)|Full Infrastructure Layer (Part B), including payment processing, should be complete|None yet — this is exactly the slack window Part B's components get built in|
-|Phase 2 — Visibility|Infrastructure Layer, confirmed stable|Lead magnet delivery + nurture sequence|
-|Phase 3 — Sales|Same|Post-purchase nurture sequence — payment processing already built and tested well in advance|
-|Tier 3 / Threshold Room|Same, plus whatever live-call/community-hosting tool gets chosen|Community onboarding sequence|
+|Module 2 Phase|Front-End Infrastructure required|Backend Infrastructure required|Functional layer activated|
+|---|---|---|---|
+|Phase 1 — Awareness (current)|Full Front-End layer (B.1) should be complete|Full Backend layer (B.2) should be complete — this is the slack window both get built in|None yet|
+|Phase 2 — Visibility|B.1, confirmed stable|**Hard gate:** Terms & Conditions/Privacy Policy and basic CRM confirmed functional before any lead capture goes live|Lead magnet delivery + nurture sequence|
+|Phase 3 — Sales|Same|**Hard gate:** invoicing, contracts, and refund/dispute policy confirmed functional before any product is sold|Post-purchase nurture sequence|
+|Tier 3 / Threshold Room|Same, plus whatever live-call/community-hosting tool gets chosen|Backend layer scaled to handle an ongoing service relationship (recurring invoicing, service agreement specific to the membership)|Community onboarding sequence|
 
 ---
 
 ## Module 7 — Summary
 
-The system is defined as phase-independent infrastructure (domain, email, hosting, payment processing, design and content tooling, tracking) that gets built continuously during Phase 1's slack time, regardless of which phase is currently active — distinct from the phase-gated functional layer (nurture sequences, delivery mechanisms) that is named and structurally reserved now but only built and activated once its real trigger condition is met. Platform choices at every layer are explicitly working assumptions, subject to the same test-and-revise discipline as the rest of Season 2. Payment processing is deliberately classified as infrastructure, not a Phase 3 dependency, closing a real gap that would otherwise have introduced last-minute risk at the one phase transition involving real money.
+The system is defined as phase-independent infrastructure that gets built continuously during Phase 1's slack time, regardless of which phase is currently active — split into Front-End (marketing: domain, email, hosting, payment collection, design and content tooling, tracking) and Backend (operational and administrative: invoicing, tax record-keeping, contracts, Terms & Conditions, client management, refund policy, bookkeeping). Backend infrastructure carries a harder gate than Front-End — no lead is captured and no product is sold until its relevant components are confirmed functional, since the risk of skipping it is legal and financial exposure, not just an unpolished presence. Both layers are distinct from the phase-gated functional layer (nurture sequences, delivery mechanisms), which is named and structurally reserved now but only built and activated once its real trigger condition is met. Platform choices throughout are explicitly working assumptions, subject to the same test-and-revise discipline as the rest of Season 2. A basic, spreadsheet-and-template-level backend is the correct starting standard — the failure mode this guards against is nonexistence, not lack of polish.
+
+---
+
+---
