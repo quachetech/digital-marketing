@@ -1,4 +1,28 @@
-# IGNITED v2 Brand Strategy
+# IGNITED — Brand Strategy
+
+## Etaphi — Season 2
+
+## Executive Brief
+
+**What this document is.** This is the complete, eight-module brand strategy for Etaphi, built from the ground up for Season 2 — not a revision of Season 1's strategy, but a rebuild informed directly by Season 1's real, documented data. Where Season 1 launched on calculated guesses (assumed audience, assumed format, assumed timeline), every decision in this document either traces back to something Season 1 actually proved, or is explicitly marked as an open hypothesis awaiting its own evidence. Nothing here is theoretical for its own sake — the discipline throughout is that a claim earns its place in the strategy either by being logically derived from something already established, or by being tested and confirmed.
+
+**What it's supposed to achieve.** The end goal is a viable, sustainable, income-generating brand and business — not content for its own sake, and not growth metrics in isolation. The strategy exists to give Etaphi the same positioning clarity and systems infrastructure an established brand would pay a team to build, using the founder's own real skill, current expertise, and lived experience as the raw material — deliberately scoped to what that expertise actually supports right now, not inflated into false authority. Financial independence from a current day job is the underlying stake, understood honestly as a multi-stage outcome rather than an imminent one.
+
+**What it's answering.** Three questions run underneath every module:
+
+1. **Who is this for, and what exactly is broken for them?** (Module 1 — positioning, the AB Gap, the deepened Tino profile)
+2. **How do we know if it's working, and what do we actually do, in what order?** (Modules 2, 3, 4, 6, 7 — goals, products, content strategy, community, systems)
+3. **How do we test what we don't yet know, and how do we keep the whole system honest over time?** (Modules 5 and 8 — campaigns as data labs, and the monitoring/feedback structure that keeps every module answerable to real evidence)
+
+**How the document is organized.** Modules are sequenced by dependency, not by number — positioning (Module 1) comes first because everything else is downstream of it; Module 5 (Content Planning & Production) and Module 8 (Monitoring & Evaluation) were deliberately built last, since planning and monitoring are derivatives of the strategy, not components of it. Each module states governing principles and testable structures — not fixed tactical choices — so the strategy can hold steady while specific decisions (which platform, which time slot, which format) are free to evolve as real data comes in.
+
+**What this document is not.** It is not a content calendar, a script bank, or a set of finished SOPs — those belong to the execution layer built on top of this strategy, not inside it. It is not a claim of expertise beyond what currently exists; the "few steps ahead, not years ahead" positioning is load-bearing throughout, not a disclaimer. It is not final — per the Document & Revise value that runs through every module, this strategy is expected to be revised as real evidence arrives, and several sections (pricing, phase-gate thresholds, campaign results) are explicitly left open pending exactly that.
+
+**Status at close of this build.** All eight modules are complete as of this writing. Campaign 1 (Reset Baseline & Time-Slot Comparison, Module 5) is defined but not yet run. The execution layer — infrastructure setup, work schedule, SOPs, and production/publication workflows — is the next layer of work, to be built separately on top of this now-stable foundation.
+
+---
+
+---
 
 # IGNITED — Module 1: Brand Positioning
 
